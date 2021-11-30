@@ -1,0 +1,1195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-11-28">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="5" title="sourceid" type="string" />
+      <attribute id="6" title="targetid" type="string" />
+      <attribute id="7" title="relationEng" type="string" />
+      <attribute id="8" title="relationKor" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="class_field" type="string" />
+      <attribute id="1" title="name" type="string" />
+      <attribute id="2" title="url" type="string" />
+      <attribute id="3" title="chiname" type="string" />
+      <attribute id="4" title="engname" type="string" />
+    </attributes>
+    <nodes>
+      <node id="SP001" label="SP001">
+        <attvalues>
+          <attvalue for="0" value="Paper" />
+          <attvalue for="1" value="'문화론적 연구'의 현실 인식과 전망" />
+          <attvalue for="2" value="http://www.klbksk.com/wiki/index.php/HDAA0001" />
+        </attvalues>
+      </node>
+      <node id="SP002" label="SP002">
+        <attvalues>
+          <attvalue for="0" value="Paper" />
+          <attvalue for="1" value="'근대문학의 종언, 그리고 '소설'이라고 불리는 대략난감한 글쓰기들" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="SP003" label="SP003">
+        <attvalues>
+          <attvalue for="0" value="Paper" />
+          <attvalue for="1" value="'풍속사'와 문학의 질서" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="SP004" label="SP004">
+        <attvalues>
+          <attvalue for="0" value="Paper" />
+          <attvalue for="1" value="문학을 넘어서는 문학의 길" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="SP005" label="SP005">
+        <attvalues>
+          <attvalue for="0" value="Paper" />
+          <attvalue for="1" value="풍속·문화·문학사" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="SP006" label="SP006">
+        <attvalues>
+          <attvalue for="0" value="Paper" />
+          <attvalue for="1" value="'문학' '史' 없는 시대의 문학연구" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="SP007" label="SP007">
+        <attvalues>
+          <attvalue for="0" value="Paper" />
+          <attvalue for="1" value="문학의 전락―무라카미[村上] 현상을 놓고" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="SP008" label="SP008">
+        <attvalues>
+          <attvalue for="0" value="Paper" />
+          <attvalue for="1" value="오딧세우스의 변명" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="SP009" label="SP009">
+        <attvalues>
+          <attvalue for="0" value="Paper" />
+          <attvalue for="1" value="새로운 글쓰기와 문학연구에 대한 시론" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="SP010" label="SP010">
+        <attvalues>
+          <attvalue for="0" value="Paper" />
+          <attvalue for="1" value="개인의 이데올로기를 넘어서" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="SP011" label="SP011">
+        <attvalues>
+          <attvalue for="0" value="Paper" />
+          <attvalue for="1" value="무엇이 한국문학의 보람인가-문학평론가 백낙청과의 대화" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="SP012" label="SP012">
+        <attvalues>
+          <attvalue for="0" value="Paper" />
+          <attvalue for="1" value="문학의 묵시록 이후" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="T01SP001" label="T01SP001">
+        <attvalues>
+          <attvalue for="0" value="Text" />
+          <attvalue for="1" value="1.서론" />
+        </attvalues>
+      </node>
+      <node id="T02SP001" label="T02SP001">
+        <attvalues>
+          <attvalue for="0" value="Text" />
+          <attvalue for="1" value="2.문학사의 전회와 '문화론적 연구'" />
+        </attvalues>
+      </node>
+      <node id="T03SP001" label="T03SP001">
+        <attvalues>
+          <attvalue for="0" value="Text" />
+          <attvalue for="1" value="3.근대 문학주의와 문화적 현실에 대한 성찰" />
+        </attvalues>
+      </node>
+      <node id="T04SP001" label="T04SP001">
+        <attvalues>
+          <attvalue for="0" value="Text" />
+          <attvalue for="1" value="4.문화사로서의 '문화론적 연구'와 문화연구로서의 '문화론적 연구'" />
+        </attvalues>
+      </node>
+      <node id="T05SP001" label="T05SP001">
+        <attvalues>
+          <attvalue for="0" value="Text" />
+          <attvalue for="1" value="5.결론에 대신하여" />
+        </attvalues>
+      </node>
+      <node id="P001" label="P001">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="천정환" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P002" label="P002">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="고봉준" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P003" label="P003">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="권보드래" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P004" label="P004">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="권성우" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P005" label="P005">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="김동식" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P006" label="P006">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="박헌호" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P007" label="P007">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="유종호" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P008" label="P008">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="이경훈" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P009" label="P009">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="하정일" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P010" label="P010">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="황종연" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P011" label="P011">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="가라타니 고진" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P012" label="P012">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="슬라보예 지젝" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P013" label="P013">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="와타나베 히로시" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P014" label="P014">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="토드 기틀린" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P015" label="P015">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="토머스 L.프리드먼" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P016" label="P016">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="조성면" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P017" label="P017">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="남재일" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P018" label="P018">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="김상철" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="P019" label="P019">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="박민규" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="J001" label="J001">
+        <attvalues>
+          <attvalue for="0" value="Journal" />
+          <attvalue for="1" value="상허학보" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="J002" label="J002">
+        <attvalues>
+          <attvalue for="0" value="Journal" />
+          <attvalue for="1" value="작가와 비평" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="J003" label="J003">
+        <attvalues>
+          <attvalue for="0" value="Journal" />
+          <attvalue for="1" value="현대소설연구" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="J004" label="J004">
+        <attvalues>
+          <attvalue for="0" value="Journal" />
+          <attvalue for="1" value="문학수첩" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="J005" label="J005">
+        <attvalues>
+          <attvalue for="0" value="Journal" />
+          <attvalue for="1" value="역사비평" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="J006" label="J006">
+        <attvalues>
+          <attvalue for="0" value="Journal" />
+          <attvalue for="1" value="현대문학" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="J007" label="J007">
+        <attvalues>
+          <attvalue for="0" value="Journal" />
+          <attvalue for="1" value="민족문학사연구" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="J008" label="J008">
+        <attvalues>
+          <attvalue for="0" value="Journal" />
+          <attvalue for="1" value="비평과 전망" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="J009" label="J009">
+        <attvalues>
+          <attvalue for="0" value="Journal" />
+          <attvalue for="1" value="창작과 비평" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="V001" label="V001">
+        <attvalues>
+          <attvalue for="0" value="Volume" />
+          <attvalue for="1" value="상허학보_19" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="V002" label="V002">
+        <attvalues>
+          <attvalue for="0" value="Volume" />
+          <attvalue for="1" value="작가와 비평_2006상반기" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="V003" label="V003">
+        <attvalues>
+          <attvalue for="0" value="Volume" />
+          <attvalue for="1" value="현대소설연구_27" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="V004" label="V004">
+        <attvalues>
+          <attvalue for="0" value="Volume" />
+          <attvalue for="1" value="문학수첩_2005봄" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="V005" label="V005">
+        <attvalues>
+          <attvalue for="0" value="Volume" />
+          <attvalue for="1" value="역사비평_75" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="V006" label="V006">
+        <attvalues>
+          <attvalue for="0" value="Volume" />
+          <attvalue for="1" value="현대문학_2006.06" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="V007" label="V007">
+        <attvalues>
+          <attvalue for="0" value="Volume" />
+          <attvalue for="1" value="민족문학사연구_26" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="V008" label="V008">
+        <attvalues>
+          <attvalue for="0" value="Volume" />
+          <attvalue for="1" value="비평과 전망_8" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="V009" label="V009">
+        <attvalues>
+          <attvalue for="0" value="Volume" />
+          <attvalue for="1" value="창작과 비평_131" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="V010" label="V010">
+        <attvalues>
+          <attvalue for="0" value="Volume" />
+          <attvalue for="1" value="현대문학_2006.08" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="B001" label="B001">
+        <attvalues>
+          <attvalue for="0" value="Book" />
+          <attvalue for="1" value="거울과 미로" />
+          <attvalue for="4" value="" />
+        </attvalues>
+      </node>
+      <node id="B002" label="B002">
+        <attvalues>
+          <attvalue for="0" value="Book" />
+          <attvalue for="1" value="근대문학의 종언" />
+          <attvalue for="4" value="" />
+        </attvalues>
+      </node>
+      <node id="B003" label="B003">
+        <attvalues>
+          <attvalue for="0" value="Book" />
+          <attvalue for="1" value="해방전후사의 재인식" />
+          <attvalue for="4" value="" />
+        </attvalues>
+      </node>
+      <node id="B004" label="B004">
+        <attvalues>
+          <attvalue for="0" value="Book" />
+          <attvalue for="1" value="신체 없는 기관-들뢰즈와 결과들" />
+          <attvalue for="4" value="" />
+        </attvalues>
+      </node>
+      <node id="B005" label="B005">
+        <attvalues>
+          <attvalue for="0" value="Book" />
+          <attvalue for="1" value="청중의 탄생" />
+          <attvalue for="4" value="" />
+        </attvalues>
+      </node>
+      <node id="B006" label="B006">
+        <attvalues>
+          <attvalue for="0" value="Book" />
+          <attvalue for="1" value="대중문학과 정전에 대한 반역" />
+          <attvalue for="4" value="" />
+        </attvalues>
+      </node>
+      <node id="B007" label="B007">
+        <attvalues>
+          <attvalue for="0" value="Book" />
+          <attvalue for="1" value="무한 미디어" />
+          <attvalue for="4" value="" />
+        </attvalues>
+      </node>
+      <node id="B008" label="B008">
+        <attvalues>
+          <attvalue for="0" value="Book" />
+          <attvalue for="1" value="세계는 평평하다" />
+          <attvalue for="4" value="" />
+        </attvalues>
+      </node>
+      <node id="PB001" label="PB001">
+        <attvalues>
+          <attvalue for="0" value="Publisher" />
+          <attvalue for="1" value="천년의시작" />
+        </attvalues>
+      </node>
+      <node id="PB002" label="PB002">
+        <attvalues>
+          <attvalue for="0" value="Publisher" />
+          <attvalue for="1" value="도서출판b" />
+        </attvalues>
+      </node>
+      <node id="PB003" label="PB003">
+        <attvalues>
+          <attvalue for="0" value="Publisher" />
+          <attvalue for="1" value="책세상" />
+        </attvalues>
+      </node>
+      <node id="PB004" label="PB004">
+        <attvalues>
+          <attvalue for="0" value="Publisher" />
+          <attvalue for="1" value="강" />
+        </attvalues>
+      </node>
+      <node id="PB005" label="PB005">
+        <attvalues>
+          <attvalue for="0" value="Publisher" />
+          <attvalue for="1" value="소명출판" />
+        </attvalues>
+      </node>
+      <node id="PB006" label="PB006">
+        <attvalues>
+          <attvalue for="0" value="Publisher" />
+          <attvalue for="1" value="휴먼앤북스" />
+        </attvalues>
+      </node>
+      <node id="PB007" label="PB007">
+        <attvalues>
+          <attvalue for="0" value="Publisher" />
+          <attvalue for="1" value="창해" />
+        </attvalues>
+      </node>
+      <node id="G001" label="G001">
+        <attvalues>
+          <attvalue for="0" value="Group" />
+          <attvalue for="1" value="상허학회" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="G002" label="G002">
+        <attvalues>
+          <attvalue for="0" value="Group" />
+          <attvalue for="1" value="한국현대소설학회" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="G003" label="G003">
+        <attvalues>
+          <attvalue for="0" value="Group" />
+          <attvalue for="1" value="동국대 한국문화연구소" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="G004" label="G004">
+        <attvalues>
+          <attvalue for="0" value="Group" />
+          <attvalue for="1" value="역사문제연구소" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="G005" label="G005">
+        <attvalues>
+          <attvalue for="0" value="Group" />
+          <attvalue for="1" value="민족문학사학회" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="G006" label="G006">
+        <attvalues>
+          <attvalue for="0" value="Group" />
+          <attvalue for="1" value="작가와비평 편집동인" />
+          <attvalue for="3" value="" />
+        </attvalues>
+      </node>
+      <node id="TM001" label="TM001">
+        <attvalues>
+          <attvalue for="0" value="Term" />
+          <attvalue for="1" value="정상성" />
+        </attvalues>
+      </node>
+      <node id="TM002" label="TM002">
+        <attvalues>
+          <attvalue for="0" value="Term" />
+          <attvalue for="1" value="근대성" />
+        </attvalues>
+      </node>
+      <node id="TM003" label="TM003">
+        <attvalues>
+          <attvalue for="0" value="Term" />
+          <attvalue for="1" value="대중문화" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="SP001" target="P001" id="0">
+        <attvalues>
+          <attvalue for="5" value="P001" />
+          <attvalue for="6" value="SP001" />
+          <attvalue for="7" value="writes" />
+          <attvalue for="8" value="저술하다" />
+        </attvalues>
+      </edge>
+      <edge source="SP001" target="V001" id="1">
+        <attvalues>
+          <attvalue for="5" value="SP001" />
+          <attvalue for="6" value="V001" />
+          <attvalue for="7" value="isIssuedAt" />
+          <attvalue for="8" value="게재되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP001" target="T01SP001" id="2">
+        <attvalues>
+          <attvalue for="5" value="T01SP001" />
+          <attvalue for="6" value="SP001" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP001" target="T02SP001" id="3">
+        <attvalues>
+          <attvalue for="5" value="T02SP001" />
+          <attvalue for="6" value="SP001" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP001" target="T03SP001" id="4">
+        <attvalues>
+          <attvalue for="5" value="T03SP001" />
+          <attvalue for="6" value="SP001" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP001" target="T04SP001" id="5">
+        <attvalues>
+          <attvalue for="5" value="T04SP001" />
+          <attvalue for="6" value="SP001" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP001" target="T05SP001" id="6">
+        <attvalues>
+          <attvalue for="5" value="T05SP001" />
+          <attvalue for="6" value="SP001" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP002" target="P002" id="7">
+        <attvalues>
+          <attvalue for="5" value="P002" />
+          <attvalue for="6" value="SP002" />
+          <attvalue for="7" value="writes" />
+          <attvalue for="8" value="저술하다" />
+        </attvalues>
+      </edge>
+      <edge source="SP002" target="V002" id="8">
+        <attvalues>
+          <attvalue for="5" value="SP002" />
+          <attvalue for="6" value="V002" />
+          <attvalue for="7" value="isIssuedAt" />
+          <attvalue for="8" value="게재되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP002" target="T02SP001" id="9">
+        <attvalues>
+          <attvalue for="5" value="SP002" />
+          <attvalue for="6" value="T02SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP003" target="P003" id="10">
+        <attvalues>
+          <attvalue for="5" value="P003" />
+          <attvalue for="6" value="SP003" />
+          <attvalue for="7" value="writes" />
+          <attvalue for="8" value="저술하다" />
+        </attvalues>
+      </edge>
+      <edge source="SP003" target="V003" id="11">
+        <attvalues>
+          <attvalue for="5" value="SP003" />
+          <attvalue for="6" value="V003" />
+          <attvalue for="7" value="isIssuedAt" />
+          <attvalue for="8" value="게재되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP003" target="T01SP001" id="12">
+        <attvalues>
+          <attvalue for="5" value="SP003" />
+          <attvalue for="6" value="T01SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP004" target="P004" id="13">
+        <attvalues>
+          <attvalue for="5" value="P004" />
+          <attvalue for="6" value="SP004" />
+          <attvalue for="7" value="writes" />
+          <attvalue for="8" value="저술하다" />
+        </attvalues>
+      </edge>
+      <edge source="SP004" target="V004" id="14">
+        <attvalues>
+          <attvalue for="5" value="SP004" />
+          <attvalue for="6" value="V004" />
+          <attvalue for="7" value="isIssuedAt" />
+          <attvalue for="8" value="게재되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP004" target="T02SP001" id="15">
+        <attvalues>
+          <attvalue for="5" value="SP004" />
+          <attvalue for="6" value="T02SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP005" target="P005" id="16">
+        <attvalues>
+          <attvalue for="5" value="P005" />
+          <attvalue for="6" value="SP005" />
+          <attvalue for="7" value="writes" />
+          <attvalue for="8" value="저술하다" />
+        </attvalues>
+      </edge>
+      <edge source="SP005" target="B001" id="17">
+        <attvalues>
+          <attvalue for="5" value="SP005" />
+          <attvalue for="6" value="B001" />
+          <attvalue for="7" value="isIssuedAt" />
+          <attvalue for="8" value="게재되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP005" target="T01SP001" id="18">
+        <attvalues>
+          <attvalue for="5" value="SP005" />
+          <attvalue for="6" value="T01SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP006" target="P006" id="19">
+        <attvalues>
+          <attvalue for="5" value="P006" />
+          <attvalue for="6" value="SP006" />
+          <attvalue for="7" value="writes" />
+          <attvalue for="8" value="저술하다" />
+        </attvalues>
+      </edge>
+      <edge source="SP006" target="V005" id="20">
+        <attvalues>
+          <attvalue for="5" value="SP006" />
+          <attvalue for="6" value="V005" />
+          <attvalue for="7" value="isIssuedAt" />
+          <attvalue for="8" value="게재되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP006" target="T02SP001" id="21">
+        <attvalues>
+          <attvalue for="5" value="SP006" />
+          <attvalue for="6" value="T02SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP007" target="P007" id="22">
+        <attvalues>
+          <attvalue for="5" value="P007" />
+          <attvalue for="6" value="SP007" />
+          <attvalue for="7" value="writes" />
+          <attvalue for="8" value="저술하다" />
+        </attvalues>
+      </edge>
+      <edge source="SP007" target="V006" id="23">
+        <attvalues>
+          <attvalue for="5" value="SP007" />
+          <attvalue for="6" value="V006" />
+          <attvalue for="7" value="isIssuedAt" />
+          <attvalue for="8" value="게재되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP007" target="T03SP001" id="24">
+        <attvalues>
+          <attvalue for="5" value="SP007" />
+          <attvalue for="6" value="T03SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP008" target="P008" id="25">
+        <attvalues>
+          <attvalue for="5" value="P008" />
+          <attvalue for="6" value="SP008" />
+          <attvalue for="7" value="writes" />
+          <attvalue for="8" value="저술하다" />
+        </attvalues>
+      </edge>
+      <edge source="SP008" target="V003" id="26">
+        <attvalues>
+          <attvalue for="5" value="SP008" />
+          <attvalue for="6" value="V003" />
+          <attvalue for="7" value="isIssuedAt" />
+          <attvalue for="8" value="게재되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP008" target="T01SP001" id="27">
+        <attvalues>
+          <attvalue for="5" value="SP008" />
+          <attvalue for="6" value="T01SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP009" target="P001" id="28">
+        <attvalues>
+          <attvalue for="5" value="P001" />
+          <attvalue for="6" value="SP009" />
+          <attvalue for="7" value="writes" />
+          <attvalue for="8" value="저술하다" />
+        </attvalues>
+      </edge>
+      <edge source="SP009" target="V007" id="29">
+        <attvalues>
+          <attvalue for="5" value="SP009" />
+          <attvalue for="6" value="V007" />
+          <attvalue for="7" value="isIssuedAt" />
+          <attvalue for="8" value="게재되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP009" target="T02SP001" id="30">
+        <attvalues>
+          <attvalue for="5" value="SP009" />
+          <attvalue for="6" value="T02SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP010" target="P009" id="31">
+        <attvalues>
+          <attvalue for="5" value="P009" />
+          <attvalue for="6" value="SP010" />
+          <attvalue for="7" value="writes" />
+          <attvalue for="8" value="저술하다" />
+        </attvalues>
+      </edge>
+      <edge source="SP010" target="V008" id="32">
+        <attvalues>
+          <attvalue for="5" value="SP010" />
+          <attvalue for="6" value="V008" />
+          <attvalue for="7" value="isIssuedAt" />
+          <attvalue for="8" value="게재되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP010" target="T03SP001" id="33">
+        <attvalues>
+          <attvalue for="5" value="SP010" />
+          <attvalue for="6" value="T03SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP011" target="P010" id="34">
+        <attvalues>
+          <attvalue for="5" value="P010" />
+          <attvalue for="6" value="SP011" />
+          <attvalue for="7" value="writes" />
+          <attvalue for="8" value="저술하다" />
+        </attvalues>
+      </edge>
+      <edge source="SP011" target="V009" id="35">
+        <attvalues>
+          <attvalue for="5" value="SP011" />
+          <attvalue for="6" value="V009" />
+          <attvalue for="7" value="isIssuedAt" />
+          <attvalue for="8" value="게재되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP011" target="T03SP001" id="36">
+        <attvalues>
+          <attvalue for="5" value="SP011" />
+          <attvalue for="6" value="T03SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP012" target="P010" id="37">
+        <attvalues>
+          <attvalue for="5" value="P010" />
+          <attvalue for="6" value="SP012" />
+          <attvalue for="7" value="writes" />
+          <attvalue for="8" value="저술하다" />
+        </attvalues>
+      </edge>
+      <edge source="SP012" target="V010" id="38">
+        <attvalues>
+          <attvalue for="5" value="SP012" />
+          <attvalue for="6" value="V010" />
+          <attvalue for="7" value="isIssuedAt" />
+          <attvalue for="8" value="게재되다" />
+        </attvalues>
+      </edge>
+      <edge source="SP012" target="T02SP001" id="39">
+        <attvalues>
+          <attvalue for="5" value="SP012" />
+          <attvalue for="6" value="T02SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="T01SP001" target="B003" id="40">
+        <attvalues>
+          <attvalue for="5" value="B003" />
+          <attvalue for="6" value="T01SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="T01SP001" target="B004" id="41">
+        <attvalues>
+          <attvalue for="5" value="B004" />
+          <attvalue for="6" value="T01SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="T01SP001" target="B006" id="42">
+        <attvalues>
+          <attvalue for="5" value="B006" />
+          <attvalue for="6" value="T01SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="T01SP001" target="P012" id="43">
+        <attvalues>
+          <attvalue for="5" value="P012" />
+          <attvalue for="6" value="T01SP001" />
+          <attvalue for="7" value="isMentionedIn" />
+          <attvalue for="8" value="언급되다" />
+        </attvalues>
+      </edge>
+      <edge source="T02SP001" target="B002" id="44">
+        <attvalues>
+          <attvalue for="5" value="B002" />
+          <attvalue for="6" value="T02SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="T02SP001" target="B008" id="45">
+        <attvalues>
+          <attvalue for="5" value="B008" />
+          <attvalue for="6" value="T02SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="T02SP001" target="TM002" id="46">
+        <attvalues>
+          <attvalue for="5" value="TM002" />
+          <attvalue for="6" value="T02SP001" />
+          <attvalue for="7" value="isMentionedIn" />
+          <attvalue for="8" value="언급되다" />
+        </attvalues>
+      </edge>
+      <edge source="T02SP001" target="P010" id="47">
+        <attvalues>
+          <attvalue for="5" value="P010" />
+          <attvalue for="6" value="T02SP001" />
+          <attvalue for="7" value="isMentionedIn" />
+          <attvalue for="8" value="언급되다" />
+        </attvalues>
+      </edge>
+      <edge source="T02SP001" target="P011" id="48">
+        <attvalues>
+          <attvalue for="5" value="P011" />
+          <attvalue for="6" value="T02SP001" />
+          <attvalue for="7" value="isMentionedIn" />
+          <attvalue for="8" value="언급되다" />
+        </attvalues>
+      </edge>
+      <edge source="T03SP001" target="B005" id="49">
+        <attvalues>
+          <attvalue for="5" value="B005" />
+          <attvalue for="6" value="T03SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="T03SP001" target="B007" id="50">
+        <attvalues>
+          <attvalue for="5" value="B007" />
+          <attvalue for="6" value="T03SP001" />
+          <attvalue for="7" value="isCitedIn" />
+          <attvalue for="8" value="인용되다" />
+        </attvalues>
+      </edge>
+      <edge source="T03SP001" target="TM001" id="51">
+        <attvalues>
+          <attvalue for="5" value="TM001" />
+          <attvalue for="6" value="T03SP001" />
+          <attvalue for="7" value="isMentionedIn" />
+          <attvalue for="8" value="언급되다" />
+        </attvalues>
+      </edge>
+      <edge source="T03SP001" target="TM003" id="52">
+        <attvalues>
+          <attvalue for="5" value="TM003" />
+          <attvalue for="6" value="T03SP001" />
+          <attvalue for="7" value="isMentionedIn" />
+          <attvalue for="8" value="언급되다" />
+        </attvalues>
+      </edge>
+      <edge source="T03SP001" target="P019" id="53">
+        <attvalues>
+          <attvalue for="5" value="P019" />
+          <attvalue for="6" value="T03SP001" />
+          <attvalue for="7" value="isMentionedIn" />
+          <attvalue for="8" value="언급되다" />
+        </attvalues>
+      </edge>
+      <edge source="T04SP001" target="TM002" id="54">
+        <attvalues>
+          <attvalue for="5" value="TM002" />
+          <attvalue for="6" value="T04SP001" />
+          <attvalue for="7" value="isMentionedIn" />
+          <attvalue for="8" value="언급되다" />
+        </attvalues>
+      </edge>
+      <edge source="T04SP001" target="TM003" id="55">
+        <attvalues>
+          <attvalue for="5" value="TM003" />
+          <attvalue for="6" value="T04SP001" />
+          <attvalue for="7" value="isMentionedIn" />
+          <attvalue for="8" value="언급되다" />
+        </attvalues>
+      </edge>
+      <edge source="J001" target="V001" id="56">
+        <attvalues>
+          <attvalue for="5" value="V001" />
+          <attvalue for="6" value="J001" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="J001" target="G001" id="57">
+        <attvalues>
+          <attvalue for="5" value="G001" />
+          <attvalue for="6" value="J001" />
+          <attvalue for="7" value="compiles" />
+          <attvalue for="8" value="편찬하다" />
+        </attvalues>
+      </edge>
+      <edge source="J002" target="V002" id="58">
+        <attvalues>
+          <attvalue for="5" value="V002" />
+          <attvalue for="6" value="J002" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="J003" target="V003" id="59">
+        <attvalues>
+          <attvalue for="5" value="V003" />
+          <attvalue for="6" value="J003" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="J003" target="G002" id="60">
+        <attvalues>
+          <attvalue for="5" value="G002" />
+          <attvalue for="6" value="J003" />
+          <attvalue for="7" value="compiles" />
+          <attvalue for="8" value="편찬하다" />
+        </attvalues>
+      </edge>
+      <edge source="J004" target="V004" id="61">
+        <attvalues>
+          <attvalue for="5" value="V004" />
+          <attvalue for="6" value="J004" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="J005" target="V005" id="62">
+        <attvalues>
+          <attvalue for="5" value="V005" />
+          <attvalue for="6" value="J005" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="J005" target="G004" id="63">
+        <attvalues>
+          <attvalue for="5" value="G004" />
+          <attvalue for="6" value="J005" />
+          <attvalue for="7" value="compiles" />
+          <attvalue for="8" value="편찬하다" />
+        </attvalues>
+      </edge>
+      <edge source="J006" target="V006" id="64">
+        <attvalues>
+          <attvalue for="5" value="V006" />
+          <attvalue for="6" value="J006" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="J006" target="V010" id="65">
+        <attvalues>
+          <attvalue for="5" value="V010" />
+          <attvalue for="6" value="J006" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="J007" target="V007" id="66">
+        <attvalues>
+          <attvalue for="5" value="V007" />
+          <attvalue for="6" value="J007" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="J007" target="G005" id="67">
+        <attvalues>
+          <attvalue for="5" value="G005" />
+          <attvalue for="6" value="J007" />
+          <attvalue for="7" value="compiles" />
+          <attvalue for="8" value="편찬하다" />
+        </attvalues>
+      </edge>
+      <edge source="J008" target="V008" id="68">
+        <attvalues>
+          <attvalue for="5" value="V008" />
+          <attvalue for="6" value="J008" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="J008" target="G006" id="69">
+        <attvalues>
+          <attvalue for="5" value="G006" />
+          <attvalue for="6" value="J008" />
+          <attvalue for="7" value="compiles" />
+          <attvalue for="8" value="편찬하다" />
+        </attvalues>
+      </edge>
+      <edge source="J009" target="V009" id="70">
+        <attvalues>
+          <attvalue for="5" value="V009" />
+          <attvalue for="6" value="J009" />
+          <attvalue for="7" value="isPartOf" />
+          <attvalue for="8" value="포함되다" />
+        </attvalues>
+      </edge>
+      <edge source="B001" target="PB001" id="71">
+        <attvalues>
+          <attvalue for="5" value="PB001" />
+          <attvalue for="6" value="B001" />
+          <attvalue for="7" value="prints" />
+          <attvalue for="8" value="간행하다" />
+        </attvalues>
+      </edge>
+      <edge source="B002" target="PB002" id="72">
+        <attvalues>
+          <attvalue for="5" value="PB002" />
+          <attvalue for="6" value="B002" />
+          <attvalue for="7" value="prints" />
+          <attvalue for="8" value="간행하다" />
+        </attvalues>
+      </edge>
+      <edge source="B003" target="PB003" id="73">
+        <attvalues>
+          <attvalue for="5" value="PB003" />
+          <attvalue for="6" value="B003" />
+          <attvalue for="7" value="prints" />
+          <attvalue for="8" value="간행하다" />
+        </attvalues>
+      </edge>
+      <edge source="B004" target="PB002" id="74">
+        <attvalues>
+          <attvalue for="5" value="PB002" />
+          <attvalue for="6" value="B004" />
+          <attvalue for="7" value="prints" />
+          <attvalue for="8" value="간행하다" />
+        </attvalues>
+      </edge>
+      <edge source="B005" target="PB004" id="75">
+        <attvalues>
+          <attvalue for="5" value="PB004" />
+          <attvalue for="6" value="B005" />
+          <attvalue for="7" value="prints" />
+          <attvalue for="8" value="간행하다" />
+        </attvalues>
+      </edge>
+      <edge source="B006" target="PB005" id="76">
+        <attvalues>
+          <attvalue for="5" value="PB005" />
+          <attvalue for="6" value="B006" />
+          <attvalue for="7" value="prints" />
+          <attvalue for="8" value="간행하다" />
+        </attvalues>
+      </edge>
+      <edge source="B007" target="PB006" id="77">
+        <attvalues>
+          <attvalue for="5" value="PB006" />
+          <attvalue for="6" value="B007" />
+          <attvalue for="7" value="prints" />
+          <attvalue for="8" value="간행하다" />
+        </attvalues>
+      </edge>
+      <edge source="B008" target="PB007" id="78">
+        <attvalues>
+          <attvalue for="5" value="PB007" />
+          <attvalue for="6" value="B008" />
+          <attvalue for="7" value="prints" />
+          <attvalue for="8" value="간행하다" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
