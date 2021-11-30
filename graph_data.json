@@ -7,7 +7,7 @@
             "class_field": "Paper",
             "url": "http://www.klbksk.com/wiki/index.php/HDAA0001",
             "key": "SP001",
-            "label": "'\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'\uc758 \ud604\uc2e4 \uc778\uc2dd\uacfc \uc804\ub9dd",
+            "label": "'문화론적 연구'의 현실 인식과 전망",
             "attributes": {
                 "group": 0,
                 "x": 9,
@@ -19,7 +19,7 @@
             "class_field": "Paper",
             "url": "",
             "key": "SP002",
-            "label": "'\uadfc\ub300\ubb38\ud559\uc758 \uc885\uc5b8, \uadf8\ub9ac\uace0 '\uc18c\uc124'\uc774\ub77c\uace0 \ubd88\ub9ac\ub294 \ub300\ub7b5\ub09c\uac10\ud55c \uae00\uc4f0\uae30\ub4e4",
+            "label": "'근대문학의 종언, 그리고 '소설'이라고 불리는 대략난감한 글쓰기들",
             "attributes": {
                 "group": 1,
                 "x": 5,
@@ -31,7 +31,7 @@
             "class_field": "Paper",
             "url": "",
             "key": "SP003",
-            "label": "'\ud48d\uc18d\uc0ac'\uc640 \ubb38\ud559\uc758 \uc9c8\uc11c",
+            "label": "'풍속사'와 문학의 질서",
             "attributes": {
                 "group": 2,
                 "x": 127,
@@ -43,7 +43,7 @@
             "class_field": "Paper",
             "url": "",
             "key": "SP004",
-            "label": "\ubb38\ud559\uc744 \ub118\uc5b4\uc11c\ub294 \ubb38\ud559\uc758 \uae38",
+            "label": "문학을 넘어서는 문학의 길",
             "attributes": {
                 "group": 3,
                 "x": -37,
@@ -55,7 +55,7 @@
             "class_field": "Paper",
             "url": "",
             "key": "SP005",
-            "label": "\ud48d\uc18d\u00b7\ubb38\ud654\u00b7\ubb38\ud559\uc0ac",
+            "label": "풍속·문화·문학사",
             "attributes": {
                 "group": 4,
                 "x": 123,
@@ -67,7 +67,7 @@
             "class_field": "Paper",
             "url": "",
             "key": "SP006",
-            "label": "'\ubb38\ud559' '\u53f2' \uc5c6\ub294 \uc2dc\ub300\uc758 \ubb38\ud559\uc5f0\uad6c",
+            "label": "'문학' '史' 없는 시대의 문학연구",
             "attributes": {
                 "group": 5,
                 "x": -67,
@@ -79,7 +79,7 @@
             "class_field": "Paper",
             "url": "",
             "key": "SP007",
-            "label": "\ubb38\ud559\uc758 \uc804\ub77d\u2015\ubb34\ub77c\uce74\ubbf8[\u6751\u4e0a] \ud604\uc0c1\uc744 \ub193\uace0",
+            "label": "문학의 전락―무라카미[村上] 현상을 놓고",
             "attributes": {
                 "group": 6,
                 "x": -73,
@@ -91,7 +91,7 @@
             "class_field": "Paper",
             "url": "",
             "key": "SP008",
-            "label": "\uc624\ub527\uc138\uc6b0\uc2a4\uc758 \ubcc0\uba85",
+            "label": "오딧세우스의 변명",
             "attributes": {
                 "group": 2,
                 "x": 120,
@@ -103,7 +103,7 @@
             "class_field": "Paper",
             "url": "",
             "key": "SP009",
-            "label": "\uc0c8\ub85c\uc6b4 \uae00\uc4f0\uae30\uc640 \ubb38\ud559\uc5f0\uad6c\uc5d0 \ub300\ud55c \uc2dc\ub860",
+            "label": "새로운 글쓰기와 문학연구에 대한 시론",
             "attributes": {
                 "group": 0,
                 "x": -68,
@@ -115,7 +115,7 @@
             "class_field": "Paper",
             "url": "",
             "key": "SP010",
-            "label": "\uac1c\uc778\uc758 \uc774\ub370\uc62c\ub85c\uae30\ub97c \ub118\uc5b4\uc11c",
+            "label": "개인의 이데올로기를 넘어서",
             "attributes": {
                 "group": 7,
                 "x": -39,
@@ -127,7 +127,7 @@
             "class_field": "Paper",
             "url": "",
             "key": "SP011",
-            "label": "\ubb34\uc5c7\uc774 \ud55c\uad6d\ubb38\ud559\uc758 \ubcf4\ub78c\uc778\uac00-\ubb38\ud559\ud3c9\ub860\uac00 \ubc31\ub099\uccad\uacfc\uc758 \ub300\ud654",
+            "label": "무엇이 한국문학의 보람인가-문학평론가 백낙청과의 대화",
             "attributes": {
                 "group": 8,
                 "x": -62,
@@ -139,7 +139,7 @@
             "class_field": "Paper",
             "url": "",
             "key": "SP012",
-            "label": "\ubb38\ud559\uc758 \ubb35\uc2dc\ub85d \uc774\ud6c4",
+            "label": "문학의 묵시록 이후",
             "attributes": {
                 "group": 9,
                 "x": -73,
@@ -150,7 +150,7 @@
         {
             "class_field": "Text",
             "key": "T01SP001",
-            "label": "1.\uc11c\ub860",
+            "label": "1.서론",
             "attributes": {
                 "group": 2,
                 "x": 76,
@@ -161,7 +161,7 @@
         {
             "class_field": "Text",
             "key": "T02SP001",
-            "label": "2.\ubb38\ud559\uc0ac\uc758 \uc804\ud68c\uc640 '\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'",
+            "label": "2.문학사의 전회와 '문화론적 연구'",
             "attributes": {
                 "group": 9,
                 "x": -23,
@@ -172,7 +172,7 @@
         {
             "class_field": "Text",
             "key": "T03SP001",
-            "label": "3.\uadfc\ub300 \ubb38\ud559\uc8fc\uc758\uc640 \ubb38\ud654\uc801 \ud604\uc2e4\uc5d0 \ub300\ud55c \uc131\ucc30",
+            "label": "3.근대 문학주의와 문화적 현실에 대한 성찰",
             "attributes": {
                 "group": 8,
                 "x": -21,
@@ -183,7 +183,7 @@
         {
             "class_field": "Text",
             "key": "T04SP001",
-            "label": "4.\ubb38\ud654\uc0ac\ub85c\uc11c\uc758 '\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'\uc640 \ubb38\ud654\uc5f0\uad6c\ub85c\uc11c\uc758 '\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'",
+            "label": "4.문화사로서의 '문화론적 연구'와 문화연구로서의 '문화론적 연구'",
             "attributes": {
                 "group": 9,
                 "x": 25,
@@ -194,7 +194,7 @@
         {
             "class_field": "Text",
             "key": "T05SP001",
-            "label": "5.\uacb0\ub860\uc5d0 \ub300\uc2e0\ud558\uc5ec",
+            "label": "5.결론에 대신하여",
             "attributes": {
                 "group": 0,
                 "x": 33,
@@ -206,7 +206,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P001",
-            "label": "\ucc9c\uc815\ud658",
+            "label": "천정환",
             "attributes": {
                 "group": 0,
                 "x": -22,
@@ -218,7 +218,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P002",
-            "label": "\uace0\ubd09\uc900",
+            "label": "고봉준",
             "attributes": {
                 "group": 1,
                 "x": 40,
@@ -230,7 +230,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P003",
-            "label": "\uad8c\ubcf4\ub4dc\ub798",
+            "label": "권보드래",
             "attributes": {
                 "group": 2,
                 "x": 177,
@@ -242,7 +242,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P004",
-            "label": "\uad8c\uc131\uc6b0",
+            "label": "권성우",
             "attributes": {
                 "group": 3,
                 "x": -29,
@@ -254,7 +254,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P005",
-            "label": "\uae40\ub3d9\uc2dd",
+            "label": "김동식",
             "attributes": {
                 "group": 4,
                 "x": 151,
@@ -266,7 +266,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P006",
-            "label": "\ubc15\ud5cc\ud638",
+            "label": "박헌호",
             "attributes": {
                 "group": 5,
                 "x": -85,
@@ -278,7 +278,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P007",
-            "label": "\uc720\uc885\ud638",
+            "label": "유종호",
             "attributes": {
                 "group": 6,
                 "x": -103,
@@ -290,7 +290,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P008",
-            "label": "\uc774\uacbd\ud6c8",
+            "label": "이경훈",
             "attributes": {
                 "group": 2,
                 "x": 172,
@@ -302,7 +302,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P009",
-            "label": "\ud558\uc815\uc77c",
+            "label": "하정일",
             "attributes": {
                 "group": 7,
                 "x": -26,
@@ -314,7 +314,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P010",
-            "label": "\ud669\uc885\uc5f0",
+            "label": "황종연",
             "attributes": {
                 "group": 9,
                 "x": -52,
@@ -326,7 +326,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P011",
-            "label": "\uac00\ub77c\ud0c0\ub2c8 \uace0\uc9c4",
+            "label": "가라타니 고진",
             "attributes": {
                 "group": 9,
                 "x": -44,
@@ -338,7 +338,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P012",
-            "label": "\uc2ac\ub77c\ubcf4\uc608 \uc9c0\uc81d",
+            "label": "슬라보예 지젝",
             "attributes": {
                 "group": 2,
                 "x": 102,
@@ -350,7 +350,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P013",
-            "label": "\uc640\ud0c0\ub098\ubca0 \ud788\ub85c\uc2dc",
+            "label": "와타나베 히로시",
             "attributes": {
                 "group": 11,
                 "x": -28,
@@ -362,7 +362,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P014",
-            "label": "\ud1a0\ub4dc \uae30\ud2c0\ub9b0",
+            "label": "토드 기틀린",
             "attributes": {
                 "group": 12,
                 "x": -31,
@@ -374,7 +374,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P015",
-            "label": "\ud1a0\uba38\uc2a4 L.\ud504\ub9ac\ub4dc\uba3c",
+            "label": "토머스 L.프리드먼",
             "attributes": {
                 "group": 13,
                 "x": -33,
@@ -386,7 +386,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P016",
-            "label": "\uc870\uc131\uba74",
+            "label": "조성면",
             "attributes": {
                 "group": 14,
                 "x": -35,
@@ -398,7 +398,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P017",
-            "label": "\ub0a8\uc7ac\uc77c",
+            "label": "남재일",
             "attributes": {
                 "group": 15,
                 "x": -37,
@@ -410,7 +410,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P018",
-            "label": "\uae40\uc0c1\ucca0",
+            "label": "김상철",
             "attributes": {
                 "group": 16,
                 "x": -39,
@@ -422,7 +422,7 @@
             "class_field": "Person",
             "chiname": "",
             "key": "P019",
-            "label": "\ubc15\ubbfc\uaddc",
+            "label": "박민규",
             "attributes": {
                 "group": 8,
                 "x": -49,
@@ -434,7 +434,7 @@
             "class_field": "Journal",
             "chiname": "",
             "key": "J001",
-            "label": "\uc0c1\ud5c8\ud559\ubcf4",
+            "label": "상허학보",
             "attributes": {
                 "group": 0,
                 "x": 69,
@@ -446,7 +446,7 @@
             "class_field": "Journal",
             "chiname": "",
             "key": "J002",
-            "label": "\uc791\uac00\uc640 \ube44\ud3c9",
+            "label": "작가와 비평",
             "attributes": {
                 "group": 1,
                 "x": 29,
@@ -458,7 +458,7 @@
             "class_field": "Journal",
             "chiname": "",
             "key": "J003",
-            "label": "\ud604\ub300\uc18c\uc124\uc5f0\uad6c",
+            "label": "현대소설연구",
             "attributes": {
                 "group": 2,
                 "x": 211,
@@ -470,7 +470,7 @@
             "class_field": "Journal",
             "chiname": "",
             "key": "J004",
-            "label": "\ubb38\ud559\uc218\ucca9",
+            "label": "문학수첩",
             "attributes": {
                 "group": 3,
                 "x": -64,
@@ -482,7 +482,7 @@
             "class_field": "Journal",
             "chiname": "",
             "key": "J005",
-            "label": "\uc5ed\uc0ac\ube44\ud3c9",
+            "label": "역사비평",
             "attributes": {
                 "group": 5,
                 "x": -146,
@@ -494,7 +494,7 @@
             "class_field": "Journal",
             "chiname": "",
             "key": "J006",
-            "label": "\ud604\ub300\ubb38\ud559",
+            "label": "현대문학",
             "attributes": {
                 "group": 6,
                 "x": -155,
@@ -506,7 +506,7 @@
             "class_field": "Journal",
             "chiname": "",
             "key": "J007",
-            "label": "\ubbfc\uc871\ubb38\ud559\uc0ac\uc5f0\uad6c",
+            "label": "민족문학사연구",
             "attributes": {
                 "group": 0,
                 "x": -179,
@@ -518,7 +518,7 @@
             "class_field": "Journal",
             "chiname": "",
             "key": "J008",
-            "label": "\ube44\ud3c9\uacfc \uc804\ub9dd",
+            "label": "비평과 전망",
             "attributes": {
                 "group": 7,
                 "x": -80,
@@ -530,7 +530,7 @@
             "class_field": "Journal",
             "chiname": "",
             "key": "J009",
-            "label": "\ucc3d\uc791\uacfc \ube44\ud3c9",
+            "label": "창작과 비평",
             "attributes": {
                 "group": 8,
                 "x": -168,
@@ -542,7 +542,7 @@
             "class_field": "Volume",
             "chiname": "",
             "key": "V001",
-            "label": "\uc0c1\ud5c8\ud559\ubcf4_19",
+            "label": "상허학보_19",
             "attributes": {
                 "group": 0,
                 "x": 38,
@@ -554,7 +554,7 @@
             "class_field": "Volume",
             "chiname": "",
             "key": "V002",
-            "label": "\uc791\uac00\uc640 \ube44\ud3c9_2006\uc0c1\ubc18\uae30",
+            "label": "작가와 비평_2006상반기",
             "attributes": {
                 "group": 1,
                 "x": 16,
@@ -566,7 +566,7 @@
             "class_field": "Volume",
             "chiname": "",
             "key": "V003",
-            "label": "\ud604\ub300\uc18c\uc124\uc5f0\uad6c_27",
+            "label": "현대소설연구_27",
             "attributes": {
                 "group": 2,
                 "x": 163,
@@ -578,7 +578,7 @@
             "class_field": "Volume",
             "chiname": "",
             "key": "V004",
-            "label": "\ubb38\ud559\uc218\ucca9_2005\ubd04",
+            "label": "문학수첩_2005봄",
             "attributes": {
                 "group": 3,
                 "x": -60,
@@ -590,7 +590,7 @@
             "class_field": "Volume",
             "chiname": "",
             "key": "V005",
-            "label": "\uc5ed\uc0ac\ube44\ud3c9_75",
+            "label": "역사비평_75",
             "attributes": {
                 "group": 5,
                 "x": -114,
@@ -602,7 +602,7 @@
             "class_field": "Volume",
             "chiname": "",
             "key": "V006",
-            "label": "\ud604\ub300\ubb38\ud559_2006.06",
+            "label": "현대문학_2006.06",
             "attributes": {
                 "group": 6,
                 "x": -126,
@@ -614,7 +614,7 @@
             "class_field": "Volume",
             "chiname": "",
             "key": "V007",
-            "label": "\ubbfc\uc871\ubb38\ud559\uc0ac\uc5f0\uad6c_26",
+            "label": "민족문학사연구_26",
             "attributes": {
                 "group": 0,
                 "x": -126,
@@ -626,7 +626,7 @@
             "class_field": "Volume",
             "chiname": "",
             "key": "V008",
-            "label": "\ube44\ud3c9\uacfc \uc804\ub9dd_8",
+            "label": "비평과 전망_8",
             "attributes": {
                 "group": 7,
                 "x": -66,
@@ -638,7 +638,7 @@
             "class_field": "Volume",
             "chiname": "",
             "key": "V009",
-            "label": "\ucc3d\uc791\uacfc \ube44\ud3c9_131",
+            "label": "창작과 비평_131",
             "attributes": {
                 "group": 8,
                 "x": -117,
@@ -650,7 +650,7 @@
             "class_field": "Volume",
             "chiname": "",
             "key": "V010",
-            "label": "\ud604\ub300\ubb38\ud559_2006.08",
+            "label": "현대문학_2006.08",
             "attributes": {
                 "group": 6,
                 "x": -125,
@@ -662,7 +662,7 @@
             "class_field": "Book",
             "engname": "",
             "key": "B001",
-            "label": "\uac70\uc6b8\uacfc \ubbf8\ub85c",
+            "label": "거울과 미로",
             "attributes": {
                 "group": 4,
                 "x": 174,
@@ -674,7 +674,7 @@
             "class_field": "Book",
             "engname": "",
             "key": "B002",
-            "label": "\uadfc\ub300\ubb38\ud559\uc758 \uc885\uc5b8",
+            "label": "근대문학의 종언",
             "attributes": {
                 "group": 2,
                 "x": 13,
@@ -686,7 +686,7 @@
             "class_field": "Book",
             "engname": "",
             "key": "B003",
-            "label": "\ud574\ubc29\uc804\ud6c4\uc0ac\uc758 \uc7ac\uc778\uc2dd",
+            "label": "해방전후사의 재인식",
             "attributes": {
                 "group": 2,
                 "x": 95,
@@ -698,7 +698,7 @@
             "class_field": "Book",
             "engname": "",
             "key": "B004",
-            "label": "\uc2e0\uccb4 \uc5c6\ub294 \uae30\uad00-\ub4e4\ub8b0\uc988\uc640 \uacb0\uacfc\ub4e4",
+            "label": "신체 없는 기관-들뢰즈와 결과들",
             "attributes": {
                 "group": 2,
                 "x": 79,
@@ -710,7 +710,7 @@
             "class_field": "Book",
             "engname": "",
             "key": "B005",
-            "label": "\uccad\uc911\uc758 \ud0c4\uc0dd",
+            "label": "청중의 탄생",
             "attributes": {
                 "group": 8,
                 "x": -4,
@@ -722,7 +722,7 @@
             "class_field": "Book",
             "engname": "",
             "key": "B006",
-            "label": "\ub300\uc911\ubb38\ud559\uacfc \uc815\uc804\uc5d0 \ub300\ud55c \ubc18\uc5ed",
+            "label": "대중문학과 정전에 대한 반역",
             "attributes": {
                 "group": 2,
                 "x": 101,
@@ -734,7 +734,7 @@
             "class_field": "Book",
             "engname": "",
             "key": "B007",
-            "label": "\ubb34\ud55c \ubbf8\ub514\uc5b4",
+            "label": "무한 미디어",
             "attributes": {
                 "group": 8,
                 "x": 14,
@@ -746,7 +746,7 @@
             "class_field": "Book",
             "engname": "",
             "key": "B008",
-            "label": "\uc138\uacc4\ub294 \ud3c9\ud3c9\ud558\ub2e4",
+            "label": "세계는 평평하다",
             "attributes": {
                 "group": 9,
                 "x": -14,
@@ -757,7 +757,7 @@
         {
             "class_field": "Publisher",
             "key": "PB001",
-            "label": "\ucc9c\ub144\uc758\uc2dc\uc791",
+            "label": "천년의시작",
             "attributes": {
                 "group": 4,
                 "x": 217,
@@ -768,7 +768,7 @@
         {
             "class_field": "Publisher",
             "key": "PB002",
-            "label": "\ub3c4\uc11c\ucd9c\ud310b",
+            "label": "도서출판b",
             "attributes": {
                 "group": 2,
                 "x": 62,
@@ -779,7 +779,7 @@
         {
             "class_field": "Publisher",
             "key": "PB003",
-            "label": "\ucc45\uc138\uc0c1",
+            "label": "책세상",
             "attributes": {
                 "group": 2,
                 "x": 132,
@@ -790,7 +790,7 @@
         {
             "class_field": "Publisher",
             "key": "PB004",
-            "label": "\uac15",
+            "label": "강",
             "attributes": {
                 "group": 8,
                 "x": 7,
@@ -801,7 +801,7 @@
         {
             "class_field": "Publisher",
             "key": "PB005",
-            "label": "\uc18c\uba85\ucd9c\ud310",
+            "label": "소명출판",
             "attributes": {
                 "group": 2,
                 "x": 133,
@@ -812,7 +812,7 @@
         {
             "class_field": "Publisher",
             "key": "PB006",
-            "label": "\ud734\uba3c\uc564\ubd81\uc2a4",
+            "label": "휴먼앤북스",
             "attributes": {
                 "group": 8,
                 "x": 34,
@@ -823,7 +823,7 @@
         {
             "class_field": "Publisher",
             "key": "PB007",
-            "label": "\ucc3d\ud574",
+            "label": "창해",
             "attributes": {
                 "group": 9,
                 "x": -5,
@@ -835,7 +835,7 @@
             "class_field": "Group",
             "chiname": "",
             "key": "G001",
-            "label": "\uc0c1\ud5c8\ud559\ud68c",
+            "label": "상허학회",
             "attributes": {
                 "group": 0,
                 "x": 97,
@@ -847,7 +847,7 @@
             "class_field": "Group",
             "chiname": "",
             "key": "G002",
-            "label": "\ud55c\uad6d\ud604\ub300\uc18c\uc124\ud559\ud68c",
+            "label": "한국현대소설학회",
             "attributes": {
                 "group": 2,
                 "x": 256,
@@ -859,7 +859,7 @@
             "class_field": "Group",
             "chiname": "",
             "key": "G003",
-            "label": "\ub3d9\uad6d\ub300 \ud55c\uad6d\ubb38\ud654\uc5f0\uad6c\uc18c",
+            "label": "동국대 한국문화연구소",
             "attributes": {
                 "group": 10,
                 "x": 36,
@@ -871,7 +871,7 @@
             "class_field": "Group",
             "chiname": "",
             "key": "G004",
-            "label": "\uc5ed\uc0ac\ubb38\uc81c\uc5f0\uad6c\uc18c",
+            "label": "역사문제연구소",
             "attributes": {
                 "group": 5,
                 "x": -173,
@@ -883,7 +883,7 @@
             "class_field": "Group",
             "chiname": "",
             "key": "G005",
-            "label": "\ubbfc\uc871\ubb38\ud559\uc0ac\ud559\ud68c",
+            "label": "민족문학사학회",
             "attributes": {
                 "group": 0,
                 "x": -226,
@@ -895,7 +895,7 @@
             "class_field": "Group",
             "chiname": "",
             "key": "G006",
-            "label": "\uc791\uac00\uc640\ube44\ud3c9 \ud3b8\uc9d1\ub3d9\uc778",
+            "label": "작가와비평 편집동인",
             "attributes": {
                 "group": 7,
                 "x": -92,
@@ -906,7 +906,7 @@
         {
             "class_field": "Term",
             "key": "TM001",
-            "label": "\uc815\uc0c1\uc131",
+            "label": "정상성",
             "attributes": {
                 "group": 8,
                 "x": -25,
@@ -917,7 +917,7 @@
         {
             "class_field": "Term",
             "key": "TM002",
-            "label": "\uadfc\ub300\uc131",
+            "label": "근대성",
             "attributes": {
                 "group": 9,
                 "x": 0,
@@ -928,7 +928,7 @@
         {
             "class_field": "Term",
             "key": "TM003",
-            "label": "\ub300\uc911\ubb38\ud654",
+            "label": "대중문화",
             "attributes": {
                 "group": 9,
                 "x": 7,
@@ -940,475 +940,475 @@
     "links": [
         {
             "relationEng": "writes",
-            "relationKor": "\uc800\uc220\ud558\ub2e4",
+            "relationKor": "저술하다",
             "source": "SP001",
             "target": "P001"
         },
         {
             "relationEng": "isIssuedAt",
-            "relationKor": "\uac8c\uc7ac\ub418\ub2e4",
+            "relationKor": "게재되다",
             "source": "SP001",
             "target": "V001"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "SP001",
             "target": "T01SP001"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "SP001",
             "target": "T02SP001"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "SP001",
             "target": "T03SP001"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "SP001",
             "target": "T04SP001"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "SP001",
             "target": "T05SP001"
         },
         {
             "relationEng": "writes",
-            "relationKor": "\uc800\uc220\ud558\ub2e4",
+            "relationKor": "저술하다",
             "source": "SP002",
             "target": "P002"
         },
         {
             "relationEng": "isIssuedAt",
-            "relationKor": "\uac8c\uc7ac\ub418\ub2e4",
+            "relationKor": "게재되다",
             "source": "SP002",
             "target": "V002"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "SP002",
             "target": "T02SP001"
         },
         {
             "relationEng": "writes",
-            "relationKor": "\uc800\uc220\ud558\ub2e4",
+            "relationKor": "저술하다",
             "source": "SP003",
             "target": "P003"
         },
         {
             "relationEng": "isIssuedAt",
-            "relationKor": "\uac8c\uc7ac\ub418\ub2e4",
+            "relationKor": "게재되다",
             "source": "SP003",
             "target": "V003"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "SP003",
             "target": "T01SP001"
         },
         {
             "relationEng": "writes",
-            "relationKor": "\uc800\uc220\ud558\ub2e4",
+            "relationKor": "저술하다",
             "source": "SP004",
             "target": "P004"
         },
         {
             "relationEng": "isIssuedAt",
-            "relationKor": "\uac8c\uc7ac\ub418\ub2e4",
+            "relationKor": "게재되다",
             "source": "SP004",
             "target": "V004"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "SP004",
             "target": "T02SP001"
         },
         {
             "relationEng": "writes",
-            "relationKor": "\uc800\uc220\ud558\ub2e4",
+            "relationKor": "저술하다",
             "source": "SP005",
             "target": "P005"
         },
         {
             "relationEng": "isIssuedAt",
-            "relationKor": "\uac8c\uc7ac\ub418\ub2e4",
+            "relationKor": "게재되다",
             "source": "SP005",
             "target": "B001"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "SP005",
             "target": "T01SP001"
         },
         {
             "relationEng": "writes",
-            "relationKor": "\uc800\uc220\ud558\ub2e4",
+            "relationKor": "저술하다",
             "source": "SP006",
             "target": "P006"
         },
         {
             "relationEng": "isIssuedAt",
-            "relationKor": "\uac8c\uc7ac\ub418\ub2e4",
+            "relationKor": "게재되다",
             "source": "SP006",
             "target": "V005"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "SP006",
             "target": "T02SP001"
         },
         {
             "relationEng": "writes",
-            "relationKor": "\uc800\uc220\ud558\ub2e4",
+            "relationKor": "저술하다",
             "source": "SP007",
             "target": "P007"
         },
         {
             "relationEng": "isIssuedAt",
-            "relationKor": "\uac8c\uc7ac\ub418\ub2e4",
+            "relationKor": "게재되다",
             "source": "SP007",
             "target": "V006"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "SP007",
             "target": "T03SP001"
         },
         {
             "relationEng": "writes",
-            "relationKor": "\uc800\uc220\ud558\ub2e4",
+            "relationKor": "저술하다",
             "source": "SP008",
             "target": "P008"
         },
         {
             "relationEng": "isIssuedAt",
-            "relationKor": "\uac8c\uc7ac\ub418\ub2e4",
+            "relationKor": "게재되다",
             "source": "SP008",
             "target": "V003"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "SP008",
             "target": "T01SP001"
         },
         {
             "relationEng": "writes",
-            "relationKor": "\uc800\uc220\ud558\ub2e4",
+            "relationKor": "저술하다",
             "source": "SP009",
             "target": "P001"
         },
         {
             "relationEng": "isIssuedAt",
-            "relationKor": "\uac8c\uc7ac\ub418\ub2e4",
+            "relationKor": "게재되다",
             "source": "SP009",
             "target": "V007"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "SP009",
             "target": "T02SP001"
         },
         {
             "relationEng": "writes",
-            "relationKor": "\uc800\uc220\ud558\ub2e4",
+            "relationKor": "저술하다",
             "source": "SP010",
             "target": "P009"
         },
         {
             "relationEng": "isIssuedAt",
-            "relationKor": "\uac8c\uc7ac\ub418\ub2e4",
+            "relationKor": "게재되다",
             "source": "SP010",
             "target": "V008"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "SP010",
             "target": "T03SP001"
         },
         {
             "relationEng": "writes",
-            "relationKor": "\uc800\uc220\ud558\ub2e4",
+            "relationKor": "저술하다",
             "source": "SP011",
             "target": "P010"
         },
         {
             "relationEng": "isIssuedAt",
-            "relationKor": "\uac8c\uc7ac\ub418\ub2e4",
+            "relationKor": "게재되다",
             "source": "SP011",
             "target": "V009"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "SP011",
             "target": "T03SP001"
         },
         {
             "relationEng": "writes",
-            "relationKor": "\uc800\uc220\ud558\ub2e4",
+            "relationKor": "저술하다",
             "source": "SP012",
             "target": "P010"
         },
         {
             "relationEng": "isIssuedAt",
-            "relationKor": "\uac8c\uc7ac\ub418\ub2e4",
+            "relationKor": "게재되다",
             "source": "SP012",
             "target": "V010"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "SP012",
             "target": "T02SP001"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "T01SP001",
             "target": "B003"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "T01SP001",
             "target": "B004"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "T01SP001",
             "target": "B006"
         },
         {
             "relationEng": "isMentionedIn",
-            "relationKor": "\uc5b8\uae09\ub418\ub2e4",
+            "relationKor": "언급되다",
             "source": "T01SP001",
             "target": "P012"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "T02SP001",
             "target": "B002"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "T02SP001",
             "target": "B008"
         },
         {
             "relationEng": "isMentionedIn",
-            "relationKor": "\uc5b8\uae09\ub418\ub2e4",
+            "relationKor": "언급되다",
             "source": "T02SP001",
             "target": "TM002"
         },
         {
             "relationEng": "isMentionedIn",
-            "relationKor": "\uc5b8\uae09\ub418\ub2e4",
+            "relationKor": "언급되다",
             "source": "T02SP001",
             "target": "P010"
         },
         {
             "relationEng": "isMentionedIn",
-            "relationKor": "\uc5b8\uae09\ub418\ub2e4",
+            "relationKor": "언급되다",
             "source": "T02SP001",
             "target": "P011"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "T03SP001",
             "target": "B005"
         },
         {
             "relationEng": "isCitedIn",
-            "relationKor": "\uc778\uc6a9\ub418\ub2e4",
+            "relationKor": "인용되다",
             "source": "T03SP001",
             "target": "B007"
         },
         {
             "relationEng": "isMentionedIn",
-            "relationKor": "\uc5b8\uae09\ub418\ub2e4",
+            "relationKor": "언급되다",
             "source": "T03SP001",
             "target": "TM001"
         },
         {
             "relationEng": "isMentionedIn",
-            "relationKor": "\uc5b8\uae09\ub418\ub2e4",
+            "relationKor": "언급되다",
             "source": "T03SP001",
             "target": "TM003"
         },
         {
             "relationEng": "isMentionedIn",
-            "relationKor": "\uc5b8\uae09\ub418\ub2e4",
+            "relationKor": "언급되다",
             "source": "T03SP001",
             "target": "P019"
         },
         {
             "relationEng": "isMentionedIn",
-            "relationKor": "\uc5b8\uae09\ub418\ub2e4",
+            "relationKor": "언급되다",
             "source": "T04SP001",
             "target": "TM002"
         },
         {
             "relationEng": "isMentionedIn",
-            "relationKor": "\uc5b8\uae09\ub418\ub2e4",
+            "relationKor": "언급되다",
             "source": "T04SP001",
             "target": "TM003"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "J001",
             "target": "V001"
         },
         {
             "relationEng": "compiles",
-            "relationKor": "\ud3b8\ucc2c\ud558\ub2e4",
+            "relationKor": "편찬하다",
             "source": "J001",
             "target": "G001"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "J002",
             "target": "V002"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "J003",
             "target": "V003"
         },
         {
             "relationEng": "compiles",
-            "relationKor": "\ud3b8\ucc2c\ud558\ub2e4",
+            "relationKor": "편찬하다",
             "source": "J003",
             "target": "G002"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "J004",
             "target": "V004"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "J005",
             "target": "V005"
         },
         {
             "relationEng": "compiles",
-            "relationKor": "\ud3b8\ucc2c\ud558\ub2e4",
+            "relationKor": "편찬하다",
             "source": "J005",
             "target": "G004"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "J006",
             "target": "V006"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "J006",
             "target": "V010"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "J007",
             "target": "V007"
         },
         {
             "relationEng": "compiles",
-            "relationKor": "\ud3b8\ucc2c\ud558\ub2e4",
+            "relationKor": "편찬하다",
             "source": "J007",
             "target": "G005"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "J008",
             "target": "V008"
         },
         {
             "relationEng": "compiles",
-            "relationKor": "\ud3b8\ucc2c\ud558\ub2e4",
+            "relationKor": "편찬하다",
             "source": "J008",
             "target": "G006"
         },
         {
             "relationEng": "isPartOf",
-            "relationKor": "\ud3ec\ud568\ub418\ub2e4",
+            "relationKor": "포함되다",
             "source": "J009",
             "target": "V009"
         },
         {
             "relationEng": "prints",
-            "relationKor": "\uac04\ud589\ud558\ub2e4",
+            "relationKor": "간행하다",
             "source": "B001",
             "target": "PB001"
         },
         {
             "relationEng": "prints",
-            "relationKor": "\uac04\ud589\ud558\ub2e4",
+            "relationKor": "간행하다",
             "source": "B002",
             "target": "PB002"
         },
         {
             "relationEng": "prints",
-            "relationKor": "\uac04\ud589\ud558\ub2e4",
+            "relationKor": "간행하다",
             "source": "B003",
             "target": "PB003"
         },
         {
             "relationEng": "prints",
-            "relationKor": "\uac04\ud589\ud558\ub2e4",
+            "relationKor": "간행하다",
             "source": "B004",
             "target": "PB002"
         },
         {
             "relationEng": "prints",
-            "relationKor": "\uac04\ud589\ud558\ub2e4",
+            "relationKor": "간행하다",
             "source": "B005",
             "target": "PB004"
         },
         {
             "relationEng": "prints",
-            "relationKor": "\uac04\ud589\ud558\ub2e4",
+            "relationKor": "간행하다",
             "source": "B006",
             "target": "PB005"
         },
         {
             "relationEng": "prints",
-            "relationKor": "\uac04\ud589\ud558\ub2e4",
+            "relationKor": "간행하다",
             "source": "B007",
             "target": "PB006"
         },
         {
             "relationEng": "prints",
-            "relationKor": "\uac04\ud589\ud558\ub2e4",
+            "relationKor": "간행하다",
             "source": "B008",
             "target": "PB007"
         }
