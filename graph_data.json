@@ -6,13 +6,13 @@
         {
             "class_field": "Paper",
             "url": "http://www.klbksk.com/wiki/index.php/HDAA0001",
-            "id": "SP001",
             "label": "'\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'\uc758 \ud604\uc2e4 \uc778\uc2dd\uacfc \uc804\ub9dd",
-            "name": "'\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'\uc758 \ud604\uc2e4 \uc778\uc2dd\uacfc \uc804\ub9dd",
             "group": 0,
             "x": 9,
             "y": -11,
-            "color": "rgba(31,119,180)"
+            "id": "SP001",
+            "name": "'\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'\uc758 \ud604\uc2e4 \uc778\uc2dd\uacfc \uc804\ub9dd",
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Paper",
@@ -20,10 +20,10 @@
             "id": "SP002",
             "label": "'\uadfc\ub300\ubb38\ud559\uc758 \uc885\uc5b8, \uadf8\ub9ac\uace0 '\uc18c\uc124'\uc774\ub77c\uace0 \ubd88\ub9ac\ub294 \ub300\ub7b5\ub09c\uac10\ud55c \uae00\uc4f0\uae30\ub4e4",
             "name": "'\uadfc\ub300\ubb38\ud559\uc758 \uc885\uc5b8, \uadf8\ub9ac\uace0 '\uc18c\uc124'\uc774\ub77c\uace0 \ubd88\ub9ac\ub294 \ub300\ub7b5\ub09c\uac10\ud55c \uae00\uc4f0\uae30\ub4e4",
-            "group": 3,
+            "group": 1,
             "x": 5,
             "y": 91,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Paper",
@@ -34,7 +34,7 @@
             "group": 2,
             "x": 127,
             "y": -18,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Paper",
@@ -45,7 +45,7 @@
             "group": 3,
             "x": -37,
             "y": 92,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Paper",
@@ -53,10 +53,10 @@
             "id": "SP005",
             "label": "\ud48d\uc18d\u00b7\ubb38\ud654\u00b7\ubb38\ud559\uc0ac",
             "name": "\ud48d\uc18d\u00b7\ubb38\ud654\u00b7\ubb38\ud559\uc0ac",
-            "group": 10,
+            "group": 4,
             "x": 123,
             "y": 30,
-            "color": "rgba(31,119,180)"
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Paper",
@@ -78,7 +78,7 @@
             "group": 6,
             "x": -73,
             "y": -82,
-            "color": "rgba(227,119,194)"
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Paper",
@@ -89,7 +89,7 @@
             "group": 2,
             "x": 120,
             "y": -35,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Paper",
@@ -97,10 +97,10 @@
             "id": "SP009",
             "label": "\uc0c8\ub85c\uc6b4 \uae00\uc4f0\uae30\uc640 \ubb38\ud559\uc5f0\uad6c\uc5d0 \ub300\ud55c \uc2dc\ub860",
             "name": "\uc0c8\ub85c\uc6b4 \uae00\uc4f0\uae30\uc640 \ubb38\ud559\uc5f0\uad6c\uc5d0 \ub300\ud55c \uc2dc\ub860",
-            "group": 11,
+            "group": 7,
             "x": -68,
             "y": 40,
-            "color": "rgba(255,127,14)"
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Paper",
@@ -108,10 +108,10 @@
             "id": "SP010",
             "label": "\uac1c\uc778\uc758 \uc774\ub370\uc62c\ub85c\uae30\ub97c \ub118\uc5b4\uc11c",
             "name": "\uac1c\uc778\uc758 \uc774\ub370\uc62c\ub85c\uae30\ub97c \ub118\uc5b4\uc11c",
-            "group": 12,
+            "group": 8,
             "x": -39,
             "y": -119,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Paper",
@@ -119,10 +119,10 @@
             "id": "SP011",
             "label": "\ubb34\uc5c7\uc774 \ud55c\uad6d\ubb38\ud559\uc758 \ubcf4\ub78c\uc778\uac00-\ubb38\ud559\ud3c9\ub860\uac00 \ubc31\ub099\uccad\uacfc\uc758 \ub300\ud654",
             "name": "\ubb34\uc5c7\uc774 \ud55c\uad6d\ubb38\ud559\uc758 \ubcf4\ub78c\uc778\uac00-\ubb38\ud559\ud3c9\ub860\uac00 \ubc31\ub099\uccad\uacfc\uc758 \ub300\ud654",
-            "group": 6,
+            "group": 9,
             "x": -62,
             "y": -40,
-            "color": "rgba(227,119,194)"
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Paper",
@@ -130,10 +130,10 @@
             "id": "SP012",
             "label": "\ubb38\ud559\uc758 \ubb35\uc2dc\ub85d \uc774\ud6c4",
             "name": "\ubb38\ud559\uc758 \ubb35\uc2dc\ub85d \uc774\ud6c4",
-            "group": 6,
+            "group": 3,
             "x": -73,
             "y": 23,
-            "color": "rgba(227,119,194)"
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Text",
@@ -143,7 +143,7 @@
             "group": 2,
             "x": 76,
             "y": -2,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(188,189,34)"
         },
         {
             "class_field": "Text",
@@ -153,17 +153,17 @@
             "group": 3,
             "x": -23,
             "y": 41,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(188,189,34)"
         },
         {
             "class_field": "Text",
             "id": "T03SP001",
             "label": "3.\uadfc\ub300 \ubb38\ud559\uc8fc\uc758\uc640 \ubb38\ud654\uc801 \ud604\uc2e4\uc5d0 \ub300\ud55c \uc131\ucc30",
             "name": "3.\uadfc\ub300 \ubb38\ud559\uc8fc\uc758\uc640 \ubb38\ud654\uc801 \ud604\uc2e4\uc5d0 \ub300\ud55c \uc131\ucc30",
-            "group": 12,
+            "group": 9,
             "x": -21,
             "y": -63,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(188,189,34)"
         },
         {
             "class_field": "Text",
@@ -173,7 +173,7 @@
             "group": 0,
             "x": 25,
             "y": -6,
-            "color": "rgba(31,119,180)"
+            "color": "rgba(188,189,34)"
         },
         {
             "class_field": "Text",
@@ -183,7 +183,7 @@
             "group": 0,
             "x": 33,
             "y": -23,
-            "color": "rgba(31,119,180)"
+            "color": "rgba(188,189,34)"
         },
         {
             "class_field": "Person",
@@ -191,10 +191,10 @@
             "id": "P001",
             "label": "\ucc9c\uc815\ud658",
             "name": "\ucc9c\uc815\ud658",
-            "group": 11,
+            "group": 7,
             "x": -22,
             "y": -2,
-            "color": "rgba(255,127,14)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -202,10 +202,10 @@
             "id": "P002",
             "label": "\uace0\ubd09\uc900",
             "name": "\uace0\ubd09\uc900",
-            "group": 3,
+            "group": 1,
             "x": 40,
             "y": 128,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -216,7 +216,7 @@
             "group": 2,
             "x": 177,
             "y": -1,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -227,7 +227,7 @@
             "group": 3,
             "x": -29,
             "y": 142,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -235,7 +235,7 @@
             "id": "P005",
             "label": "\uae40\ub3d9\uc2dd",
             "name": "\uae40\ub3d9\uc2dd",
-            "group": 10,
+            "group": 4,
             "x": 151,
             "y": 74,
             "color": "rgba(31,119,180)"
@@ -249,7 +249,7 @@
             "group": 5,
             "x": -85,
             "y": 117,
-            "color": "rgba(140,86,75)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -260,7 +260,7 @@
             "group": 6,
             "x": -103,
             "y": -125,
-            "color": "rgba(227,119,194)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -271,7 +271,7 @@
             "group": 2,
             "x": 172,
             "y": -28,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -279,10 +279,10 @@
             "id": "P009",
             "label": "\ud558\uc815\uc77c",
             "name": "\ud558\uc815\uc77c",
-            "group": 12,
+            "group": 8,
             "x": -26,
             "y": -167,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -290,10 +290,10 @@
             "id": "P010",
             "label": "\ud669\uc885\uc5f0",
             "name": "\ud669\uc885\uc5f0",
-            "group": 6,
+            "group": 3,
             "x": -52,
             "y": 5,
-            "color": "rgba(227,119,194)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -304,7 +304,7 @@
             "group": 3,
             "x": -44,
             "y": 56,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -315,7 +315,7 @@
             "group": 2,
             "x": 102,
             "y": 0,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -323,10 +323,10 @@
             "id": "P013",
             "label": "\uc640\ud0c0\ub098\ubca0 \ud788\ub85c\uc2dc",
             "name": "\uc640\ud0c0\ub098\ubca0 \ud788\ub85c\uc2dc",
-            "group": 13,
+            "group": 12,
             "x": -28,
             "y": 31,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -334,10 +334,10 @@
             "id": "P014",
             "label": "\ud1a0\ub4dc \uae30\ud2c0\ub9b0",
             "name": "\ud1a0\ub4dc \uae30\ud2c0\ub9b0",
-            "group": 14,
+            "group": 13,
             "x": -31,
             "y": 29,
-            "color": "rgba(148,103,189)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -345,10 +345,10 @@
             "id": "P015",
             "label": "\ud1a0\uba38\uc2a4 L.\ud504\ub9ac\ub4dc\uba3c",
             "name": "\ud1a0\uba38\uc2a4 L.\ud504\ub9ac\ub4dc\uba3c",
-            "group": 1,
+            "group": 14,
             "x": -33,
             "y": 26,
-            "color": "rgba(255,127,14)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -356,10 +356,10 @@
             "id": "P016",
             "label": "\uc870\uc131\uba74",
             "name": "\uc870\uc131\uba74",
-            "group": 4,
+            "group": 15,
             "x": -35,
             "y": 24,
-            "color": "rgba(148,103,189)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -367,10 +367,10 @@
             "id": "P017",
             "label": "\ub0a8\uc7ac\uc77c",
             "name": "\ub0a8\uc7ac\uc77c",
-            "group": 7,
+            "group": 16,
             "x": -37,
             "y": 21,
-            "color": "rgba(127,127,127)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -378,10 +378,10 @@
             "id": "P018",
             "label": "\uae40\uc0c1\ucca0",
             "name": "\uae40\uc0c1\ucca0",
-            "group": 8,
+            "group": 10,
             "x": -39,
             "y": 18,
-            "color": "rgba(188,189,34)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
@@ -389,10 +389,10 @@
             "id": "P019",
             "label": "\ubc15\ubbfc\uaddc",
             "name": "\ubc15\ubbfc\uaddc",
-            "group": 12,
+            "group": 9,
             "x": -49,
             "y": -80,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Journal",
@@ -403,7 +403,7 @@
             "group": 0,
             "x": 69,
             "y": -98,
-            "color": "rgba(31,119,180)"
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Journal",
@@ -411,10 +411,10 @@
             "id": "J002",
             "label": "\uc791\uac00\uc640 \ube44\ud3c9",
             "name": "\uc791\uac00\uc640 \ube44\ud3c9",
-            "group": 3,
+            "group": 1,
             "x": 29,
             "y": 198,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Journal",
@@ -425,7 +425,7 @@
             "group": 2,
             "x": 211,
             "y": -80,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Journal",
@@ -436,7 +436,7 @@
             "group": 3,
             "x": -64,
             "y": 195,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Journal",
@@ -447,7 +447,7 @@
             "group": 5,
             "x": -146,
             "y": 144,
-            "color": "rgba(140,86,75)"
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Journal",
@@ -458,7 +458,7 @@
             "group": 6,
             "x": -155,
             "y": -34,
-            "color": "rgba(227,119,194)"
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Journal",
@@ -466,7 +466,7 @@
             "id": "J007",
             "label": "\ubbfc\uc871\ubb38\ud559\uc0ac\uc5f0\uad6c",
             "name": "\ubbfc\uc871\ubb38\ud559\uc0ac\uc5f0\uad6c",
-            "group": 11,
+            "group": 7,
             "x": -179,
             "y": 66,
             "color": "rgba(255,127,14)"
@@ -477,10 +477,10 @@
             "id": "J008",
             "label": "\ube44\ud3c9\uacfc \uc804\ub9dd",
             "name": "\ube44\ud3c9\uacfc \uc804\ub9dd",
-            "group": 12,
+            "group": 8,
             "x": -80,
             "y": -211,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Journal",
@@ -488,10 +488,10 @@
             "id": "J009",
             "label": "\ucc3d\uc791\uacfc \ube44\ud3c9",
             "name": "\ucc3d\uc791\uacfc \ube44\ud3c9",
-            "group": 6,
+            "group": 9,
             "x": -168,
             "y": -79,
-            "color": "rgba(227,119,194)"
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Volume",
@@ -502,7 +502,7 @@
             "group": 0,
             "x": 38,
             "y": -48,
-            "color": "rgba(31,119,180)"
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Volume",
@@ -510,10 +510,10 @@
             "id": "V002",
             "label": "\uc791\uac00\uc640 \ube44\ud3c9_2006\uc0c1\ubc18\uae30",
             "name": "\uc791\uac00\uc640 \ube44\ud3c9_2006\uc0c1\ubc18\uae30",
-            "group": 3,
+            "group": 1,
             "x": 16,
             "y": 148,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Volume",
@@ -524,7 +524,7 @@
             "group": 2,
             "x": 163,
             "y": -60,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Volume",
@@ -535,7 +535,7 @@
             "group": 3,
             "x": -60,
             "y": 142,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Volume",
@@ -546,7 +546,7 @@
             "group": 5,
             "x": -114,
             "y": 102,
-            "color": "rgba(140,86,75)"
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Volume",
@@ -565,10 +565,10 @@
             "id": "V007",
             "label": "\ubbfc\uc871\ubb38\ud559\uc0ac\uc5f0\uad6c_26",
             "name": "\ubbfc\uc871\ubb38\ud559\uc0ac\uc5f0\uad6c_26",
-            "group": 11,
+            "group": 7,
             "x": -126,
             "y": 54,
-            "color": "rgba(255,127,14)"
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Volume",
@@ -576,10 +576,10 @@
             "id": "V008",
             "label": "\ube44\ud3c9\uacfc \uc804\ub9dd_8",
             "name": "\ube44\ud3c9\uacfc \uc804\ub9dd_8",
-            "group": 12,
+            "group": 8,
             "x": -66,
             "y": -164,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Volume",
@@ -587,7 +587,7 @@
             "id": "V009",
             "label": "\ucc3d\uc791\uacfc \ube44\ud3c9_131",
             "name": "\ucc3d\uc791\uacfc \ube44\ud3c9_131",
-            "group": 6,
+            "group": 9,
             "x": -117,
             "y": -56,
             "color": "rgba(227,119,194)"
@@ -609,10 +609,10 @@
             "id": "B001",
             "label": "\uac70\uc6b8\uacfc \ubbf8\ub85c",
             "name": "\uac70\uc6b8\uacfc \ubbf8\ub85c",
-            "group": 10,
+            "group": 4,
             "x": 174,
             "y": 47,
-            "color": "rgba(31,119,180)"
+            "color": "rgba(127,127,127)"
         },
         {
             "class_field": "Book",
@@ -623,7 +623,7 @@
             "group": 2,
             "x": 13,
             "y": 62,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(127,127,127)"
         },
         {
             "class_field": "Book",
@@ -634,7 +634,7 @@
             "group": 2,
             "x": 95,
             "y": -47,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(127,127,127)"
         },
         {
             "class_field": "Book",
@@ -645,7 +645,7 @@
             "group": 2,
             "x": 79,
             "y": 37,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(127,127,127)"
         },
         {
             "class_field": "Book",
@@ -653,10 +653,10 @@
             "id": "B005",
             "label": "\uccad\uc911\uc758 \ud0c4\uc0dd",
             "name": "\uccad\uc911\uc758 \ud0c4\uc0dd",
-            "group": 12,
+            "group": 9,
             "x": -4,
             "y": -111,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(127,127,127)"
         },
         {
             "class_field": "Book",
@@ -667,7 +667,7 @@
             "group": 2,
             "x": 101,
             "y": 42,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(127,127,127)"
         },
         {
             "class_field": "Book",
@@ -675,10 +675,10 @@
             "id": "B007",
             "label": "\ubb34\ud55c \ubbf8\ub514\uc5b4",
             "name": "\ubb34\ud55c \ubbf8\ub514\uc5b4",
-            "group": 12,
+            "group": 9,
             "x": 14,
             "y": -104,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(127,127,127)"
         },
         {
             "class_field": "Book",
@@ -689,17 +689,17 @@
             "group": 3,
             "x": -14,
             "y": 79,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(127,127,127)"
         },
         {
             "class_field": "Publisher",
             "id": "PB001",
             "label": "\ucc9c\ub144\uc758\uc2dc\uc791",
             "name": "\ucc9c\ub144\uc758\uc2dc\uc791",
-            "group": 10,
+            "group": 4,
             "x": 217,
             "y": 74,
-            "color": "rgba(31,119,180)"
+            "color": "rgba(148,103,189)"
         },
         {
             "class_field": "Publisher",
@@ -709,7 +709,7 @@
             "group": 2,
             "x": 62,
             "y": 82,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(148,103,189)"
         },
         {
             "class_field": "Publisher",
@@ -719,17 +719,17 @@
             "group": 2,
             "x": 132,
             "y": -90,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(148,103,189)"
         },
         {
             "class_field": "Publisher",
             "id": "PB004",
             "label": "\uac15",
             "name": "\uac15",
-            "group": 12,
+            "group": 9,
             "x": 7,
             "y": -165,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(148,103,189)"
         },
         {
             "class_field": "Publisher",
@@ -739,17 +739,17 @@
             "group": 2,
             "x": 133,
             "y": 89,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(148,103,189)"
         },
         {
             "class_field": "Publisher",
             "id": "PB006",
             "label": "\ud734\uba3c\uc564\ubd81\uc2a4",
             "name": "\ud734\uba3c\uc564\ubd81\uc2a4",
-            "group": 12,
+            "group": 9,
             "x": 34,
             "y": -156,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(148,103,189)"
         },
         {
             "class_field": "Publisher",
@@ -759,7 +759,7 @@
             "group": 3,
             "x": -5,
             "y": 136,
-            "color": "rgba(214,39,40)"
+            "color": "rgba(148,103,189)"
         },
         {
             "class_field": "Group",
@@ -770,7 +770,7 @@
             "group": 0,
             "x": 97,
             "y": -146,
-            "color": "rgba(31,119,180)"
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Group",
@@ -789,10 +789,10 @@
             "id": "G003",
             "label": "\ub3d9\uad6d\ub300 \ud55c\uad6d\ubb38\ud654\uc5f0\uad6c\uc18c",
             "name": "\ub3d9\uad6d\ub300 \ud55c\uad6d\ubb38\ud654\uc5f0\uad6c\uc18c",
-            "group": 9,
+            "group": 11,
             "x": 36,
             "y": -22,
-            "color": "rgba(23,190,207)"
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Group",
@@ -803,7 +803,7 @@
             "group": 5,
             "x": -173,
             "y": 183,
-            "color": "rgba(140,86,75)"
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Group",
@@ -811,10 +811,10 @@
             "id": "G005",
             "label": "\ubbfc\uc871\ubb38\ud559\uc0ac\ud559\ud68c",
             "name": "\ubbfc\uc871\ubb38\ud559\uc0ac\ud559\ud68c",
-            "group": 11,
+            "group": 7,
             "x": -226,
             "y": 78,
-            "color": "rgba(255,127,14)"
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Group",
@@ -822,7 +822,7 @@
             "id": "G006",
             "label": "\uc791\uac00\uc640\ube44\ud3c9 \ud3b8\uc9d1\ub3d9\uc778",
             "name": "\uc791\uac00\uc640\ube44\ud3c9 \ud3b8\uc9d1\ub3d9\uc778",
-            "group": 12,
+            "group": 8,
             "x": -92,
             "y": -255,
             "color": "rgba(44,160,44)"
@@ -832,10 +832,10 @@
             "id": "TM001",
             "label": "\uc815\uc0c1\uc131",
             "name": "\uc815\uc0c1\uc131",
-            "group": 12,
+            "group": 9,
             "x": -25,
             "y": -94,
-            "color": "rgba(44,160,44)"
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Term",
@@ -845,7 +845,7 @@
             "group": 0,
             "x": 0,
             "y": 34,
-            "color": "rgba(31,119,180)"
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Term",
@@ -855,7 +855,7 @@
             "group": 0,
             "x": 7,
             "y": -64,
-            "color": "rgba(31,119,180)"
+            "color": "rgba(214,39,40)"
         }
     ],
     "edges": [
@@ -865,7 +865,8 @@
             "source": "SP001",
             "target": "P001",
             "id": 0,
-            "label": "\uc800\uc220\ud558\ub2e4"
+            "label": "\uc800\uc220\ud558\ub2e4",
+            "color": "rgba(148,103,189)"
         },
         {
             "relationEng": "isIssuedAt",
@@ -873,7 +874,8 @@
             "source": "SP001",
             "target": "V001",
             "id": 1,
-            "label": "\uac8c\uc7ac\ub418\ub2e4"
+            "label": "\uac8c\uc7ac\ub418\ub2e4",
+            "color": "rgba(44,160,44)"
         },
         {
             "relationEng": "isPartOf",
@@ -881,7 +883,8 @@
             "source": "SP001",
             "target": "T01SP001",
             "id": 2,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "isPartOf",
@@ -889,7 +892,8 @@
             "source": "SP001",
             "target": "T02SP001",
             "id": 3,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "isPartOf",
@@ -897,7 +901,8 @@
             "source": "SP001",
             "target": "T03SP001",
             "id": 4,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "isPartOf",
@@ -905,7 +910,8 @@
             "source": "SP001",
             "target": "T04SP001",
             "id": 5,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "isPartOf",
@@ -913,7 +919,8 @@
             "source": "SP001",
             "target": "T05SP001",
             "id": 6,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "writes",
@@ -921,7 +928,8 @@
             "source": "SP002",
             "target": "P002",
             "id": 7,
-            "label": "\uc800\uc220\ud558\ub2e4"
+            "label": "\uc800\uc220\ud558\ub2e4",
+            "color": "rgba(148,103,189)"
         },
         {
             "relationEng": "isIssuedAt",
@@ -929,7 +937,8 @@
             "source": "SP002",
             "target": "V002",
             "id": 8,
-            "label": "\uac8c\uc7ac\ub418\ub2e4"
+            "label": "\uac8c\uc7ac\ub418\ub2e4",
+            "color": "rgba(44,160,44)"
         },
         {
             "relationEng": "isCitedIn",
@@ -937,7 +946,8 @@
             "source": "SP002",
             "target": "T02SP001",
             "id": 9,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "writes",
@@ -945,7 +955,8 @@
             "source": "SP003",
             "target": "P003",
             "id": 10,
-            "label": "\uc800\uc220\ud558\ub2e4"
+            "label": "\uc800\uc220\ud558\ub2e4",
+            "color": "rgba(148,103,189)"
         },
         {
             "relationEng": "isIssuedAt",
@@ -953,7 +964,8 @@
             "source": "SP003",
             "target": "V003",
             "id": 11,
-            "label": "\uac8c\uc7ac\ub418\ub2e4"
+            "label": "\uac8c\uc7ac\ub418\ub2e4",
+            "color": "rgba(44,160,44)"
         },
         {
             "relationEng": "isCitedIn",
@@ -961,7 +973,8 @@
             "source": "SP003",
             "target": "T01SP001",
             "id": 12,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "writes",
@@ -969,7 +982,8 @@
             "source": "SP004",
             "target": "P004",
             "id": 13,
-            "label": "\uc800\uc220\ud558\ub2e4"
+            "label": "\uc800\uc220\ud558\ub2e4",
+            "color": "rgba(148,103,189)"
         },
         {
             "relationEng": "isIssuedAt",
@@ -977,7 +991,8 @@
             "source": "SP004",
             "target": "V004",
             "id": 14,
-            "label": "\uac8c\uc7ac\ub418\ub2e4"
+            "label": "\uac8c\uc7ac\ub418\ub2e4",
+            "color": "rgba(44,160,44)"
         },
         {
             "relationEng": "isCitedIn",
@@ -985,7 +1000,8 @@
             "source": "SP004",
             "target": "T02SP001",
             "id": 15,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "writes",
@@ -993,7 +1009,8 @@
             "source": "SP005",
             "target": "P005",
             "id": 16,
-            "label": "\uc800\uc220\ud558\ub2e4"
+            "label": "\uc800\uc220\ud558\ub2e4",
+            "color": "rgba(148,103,189)"
         },
         {
             "relationEng": "isIssuedAt",
@@ -1001,7 +1018,8 @@
             "source": "SP005",
             "target": "B001",
             "id": 17,
-            "label": "\uac8c\uc7ac\ub418\ub2e4"
+            "label": "\uac8c\uc7ac\ub418\ub2e4",
+            "color": "rgba(44,160,44)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1009,7 +1027,8 @@
             "source": "SP005",
             "target": "T01SP001",
             "id": 18,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "writes",
@@ -1017,7 +1036,8 @@
             "source": "SP006",
             "target": "P006",
             "id": 19,
-            "label": "\uc800\uc220\ud558\ub2e4"
+            "label": "\uc800\uc220\ud558\ub2e4",
+            "color": "rgba(148,103,189)"
         },
         {
             "relationEng": "isIssuedAt",
@@ -1025,7 +1045,8 @@
             "source": "SP006",
             "target": "V005",
             "id": 20,
-            "label": "\uac8c\uc7ac\ub418\ub2e4"
+            "label": "\uac8c\uc7ac\ub418\ub2e4",
+            "color": "rgba(44,160,44)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1033,7 +1054,8 @@
             "source": "SP006",
             "target": "T02SP001",
             "id": 21,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "writes",
@@ -1041,7 +1063,8 @@
             "source": "SP007",
             "target": "P007",
             "id": 22,
-            "label": "\uc800\uc220\ud558\ub2e4"
+            "label": "\uc800\uc220\ud558\ub2e4",
+            "color": "rgba(148,103,189)"
         },
         {
             "relationEng": "isIssuedAt",
@@ -1049,7 +1072,8 @@
             "source": "SP007",
             "target": "V006",
             "id": 23,
-            "label": "\uac8c\uc7ac\ub418\ub2e4"
+            "label": "\uac8c\uc7ac\ub418\ub2e4",
+            "color": "rgba(44,160,44)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1057,7 +1081,8 @@
             "source": "SP007",
             "target": "T03SP001",
             "id": 24,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "writes",
@@ -1065,7 +1090,8 @@
             "source": "SP008",
             "target": "P008",
             "id": 25,
-            "label": "\uc800\uc220\ud558\ub2e4"
+            "label": "\uc800\uc220\ud558\ub2e4",
+            "color": "rgba(148,103,189)"
         },
         {
             "relationEng": "isIssuedAt",
@@ -1073,7 +1099,8 @@
             "source": "SP008",
             "target": "V003",
             "id": 26,
-            "label": "\uac8c\uc7ac\ub418\ub2e4"
+            "label": "\uac8c\uc7ac\ub418\ub2e4",
+            "color": "rgba(44,160,44)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1081,7 +1108,8 @@
             "source": "SP008",
             "target": "T01SP001",
             "id": 27,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "writes",
@@ -1089,7 +1117,8 @@
             "source": "SP009",
             "target": "P001",
             "id": 28,
-            "label": "\uc800\uc220\ud558\ub2e4"
+            "label": "\uc800\uc220\ud558\ub2e4",
+            "color": "rgba(148,103,189)"
         },
         {
             "relationEng": "isIssuedAt",
@@ -1097,7 +1126,8 @@
             "source": "SP009",
             "target": "V007",
             "id": 29,
-            "label": "\uac8c\uc7ac\ub418\ub2e4"
+            "label": "\uac8c\uc7ac\ub418\ub2e4",
+            "color": "rgba(44,160,44)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1105,7 +1135,8 @@
             "source": "SP009",
             "target": "T02SP001",
             "id": 30,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "writes",
@@ -1113,7 +1144,8 @@
             "source": "SP010",
             "target": "P009",
             "id": 31,
-            "label": "\uc800\uc220\ud558\ub2e4"
+            "label": "\uc800\uc220\ud558\ub2e4",
+            "color": "rgba(148,103,189)"
         },
         {
             "relationEng": "isIssuedAt",
@@ -1121,7 +1153,8 @@
             "source": "SP010",
             "target": "V008",
             "id": 32,
-            "label": "\uac8c\uc7ac\ub418\ub2e4"
+            "label": "\uac8c\uc7ac\ub418\ub2e4",
+            "color": "rgba(44,160,44)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1129,7 +1162,8 @@
             "source": "SP010",
             "target": "T03SP001",
             "id": 33,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "writes",
@@ -1137,7 +1171,8 @@
             "source": "SP011",
             "target": "P010",
             "id": 34,
-            "label": "\uc800\uc220\ud558\ub2e4"
+            "label": "\uc800\uc220\ud558\ub2e4",
+            "color": "rgba(148,103,189)"
         },
         {
             "relationEng": "isIssuedAt",
@@ -1145,7 +1180,8 @@
             "source": "SP011",
             "target": "V009",
             "id": 35,
-            "label": "\uac8c\uc7ac\ub418\ub2e4"
+            "label": "\uac8c\uc7ac\ub418\ub2e4",
+            "color": "rgba(44,160,44)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1153,7 +1189,8 @@
             "source": "SP011",
             "target": "T03SP001",
             "id": 36,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "writes",
@@ -1161,7 +1198,8 @@
             "source": "SP012",
             "target": "P010",
             "id": 37,
-            "label": "\uc800\uc220\ud558\ub2e4"
+            "label": "\uc800\uc220\ud558\ub2e4",
+            "color": "rgba(148,103,189)"
         },
         {
             "relationEng": "isIssuedAt",
@@ -1169,7 +1207,8 @@
             "source": "SP012",
             "target": "V010",
             "id": 38,
-            "label": "\uac8c\uc7ac\ub418\ub2e4"
+            "label": "\uac8c\uc7ac\ub418\ub2e4",
+            "color": "rgba(44,160,44)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1177,7 +1216,8 @@
             "source": "SP012",
             "target": "T02SP001",
             "id": 39,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1185,7 +1225,8 @@
             "source": "T01SP001",
             "target": "B003",
             "id": 40,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1193,7 +1234,8 @@
             "source": "T01SP001",
             "target": "B004",
             "id": 41,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1201,7 +1243,8 @@
             "source": "T01SP001",
             "target": "B006",
             "id": 42,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "isMentionedIn",
@@ -1209,7 +1252,8 @@
             "source": "T01SP001",
             "target": "P012",
             "id": 43,
-            "label": "\uc5b8\uae09\ub418\ub2e4"
+            "label": "\uc5b8\uae09\ub418\ub2e4",
+            "color": "rgba(214,39,40)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1217,7 +1261,8 @@
             "source": "T02SP001",
             "target": "B002",
             "id": 44,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1225,7 +1270,8 @@
             "source": "T02SP001",
             "target": "B008",
             "id": 45,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "isMentionedIn",
@@ -1233,7 +1279,8 @@
             "source": "T02SP001",
             "target": "TM002",
             "id": 46,
-            "label": "\uc5b8\uae09\ub418\ub2e4"
+            "label": "\uc5b8\uae09\ub418\ub2e4",
+            "color": "rgba(214,39,40)"
         },
         {
             "relationEng": "isMentionedIn",
@@ -1241,7 +1288,8 @@
             "source": "T02SP001",
             "target": "P010",
             "id": 47,
-            "label": "\uc5b8\uae09\ub418\ub2e4"
+            "label": "\uc5b8\uae09\ub418\ub2e4",
+            "color": "rgba(214,39,40)"
         },
         {
             "relationEng": "isMentionedIn",
@@ -1249,7 +1297,8 @@
             "source": "T02SP001",
             "target": "P011",
             "id": 48,
-            "label": "\uc5b8\uae09\ub418\ub2e4"
+            "label": "\uc5b8\uae09\ub418\ub2e4",
+            "color": "rgba(214,39,40)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1257,7 +1306,8 @@
             "source": "T03SP001",
             "target": "B005",
             "id": 49,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "isCitedIn",
@@ -1265,7 +1315,8 @@
             "source": "T03SP001",
             "target": "B007",
             "id": 50,
-            "label": "\uc778\uc6a9\ub418\ub2e4"
+            "label": "\uc778\uc6a9\ub418\ub2e4",
+            "color": "rgba(140,86,75)"
         },
         {
             "relationEng": "isMentionedIn",
@@ -1273,7 +1324,8 @@
             "source": "T03SP001",
             "target": "TM001",
             "id": 51,
-            "label": "\uc5b8\uae09\ub418\ub2e4"
+            "label": "\uc5b8\uae09\ub418\ub2e4",
+            "color": "rgba(214,39,40)"
         },
         {
             "relationEng": "isMentionedIn",
@@ -1281,7 +1333,8 @@
             "source": "T03SP001",
             "target": "TM003",
             "id": 52,
-            "label": "\uc5b8\uae09\ub418\ub2e4"
+            "label": "\uc5b8\uae09\ub418\ub2e4",
+            "color": "rgba(214,39,40)"
         },
         {
             "relationEng": "isMentionedIn",
@@ -1289,7 +1342,8 @@
             "source": "T03SP001",
             "target": "P019",
             "id": 53,
-            "label": "\uc5b8\uae09\ub418\ub2e4"
+            "label": "\uc5b8\uae09\ub418\ub2e4",
+            "color": "rgba(214,39,40)"
         },
         {
             "relationEng": "isMentionedIn",
@@ -1297,7 +1351,8 @@
             "source": "T04SP001",
             "target": "TM002",
             "id": 54,
-            "label": "\uc5b8\uae09\ub418\ub2e4"
+            "label": "\uc5b8\uae09\ub418\ub2e4",
+            "color": "rgba(214,39,40)"
         },
         {
             "relationEng": "isMentionedIn",
@@ -1305,7 +1360,8 @@
             "source": "T04SP001",
             "target": "TM003",
             "id": 55,
-            "label": "\uc5b8\uae09\ub418\ub2e4"
+            "label": "\uc5b8\uae09\ub418\ub2e4",
+            "color": "rgba(214,39,40)"
         },
         {
             "relationEng": "isPartOf",
@@ -1313,7 +1369,8 @@
             "source": "J001",
             "target": "V001",
             "id": 56,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "compiles",
@@ -1321,7 +1378,8 @@
             "source": "J001",
             "target": "G001",
             "id": 57,
-            "label": "\ud3b8\ucc2c\ud558\ub2e4"
+            "label": "\ud3b8\ucc2c\ud558\ub2e4",
+            "color": "rgba(255,127,14)"
         },
         {
             "relationEng": "isPartOf",
@@ -1329,7 +1387,8 @@
             "source": "J002",
             "target": "V002",
             "id": 58,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "isPartOf",
@@ -1337,7 +1396,8 @@
             "source": "J003",
             "target": "V003",
             "id": 59,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "compiles",
@@ -1345,7 +1405,8 @@
             "source": "J003",
             "target": "G002",
             "id": 60,
-            "label": "\ud3b8\ucc2c\ud558\ub2e4"
+            "label": "\ud3b8\ucc2c\ud558\ub2e4",
+            "color": "rgba(255,127,14)"
         },
         {
             "relationEng": "isPartOf",
@@ -1353,7 +1414,8 @@
             "source": "J004",
             "target": "V004",
             "id": 61,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "isPartOf",
@@ -1361,7 +1423,8 @@
             "source": "J005",
             "target": "V005",
             "id": 62,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "compiles",
@@ -1369,7 +1432,8 @@
             "source": "J005",
             "target": "G004",
             "id": 63,
-            "label": "\ud3b8\ucc2c\ud558\ub2e4"
+            "label": "\ud3b8\ucc2c\ud558\ub2e4",
+            "color": "rgba(255,127,14)"
         },
         {
             "relationEng": "isPartOf",
@@ -1377,7 +1441,8 @@
             "source": "J006",
             "target": "V006",
             "id": 64,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "isPartOf",
@@ -1385,7 +1450,8 @@
             "source": "J006",
             "target": "V010",
             "id": 65,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "isPartOf",
@@ -1393,7 +1459,8 @@
             "source": "J007",
             "target": "V007",
             "id": 66,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "compiles",
@@ -1401,7 +1468,8 @@
             "source": "J007",
             "target": "G005",
             "id": 67,
-            "label": "\ud3b8\ucc2c\ud558\ub2e4"
+            "label": "\ud3b8\ucc2c\ud558\ub2e4",
+            "color": "rgba(255,127,14)"
         },
         {
             "relationEng": "isPartOf",
@@ -1409,7 +1477,8 @@
             "source": "J008",
             "target": "V008",
             "id": 68,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "compiles",
@@ -1417,7 +1486,8 @@
             "source": "J008",
             "target": "G006",
             "id": 69,
-            "label": "\ud3b8\ucc2c\ud558\ub2e4"
+            "label": "\ud3b8\ucc2c\ud558\ub2e4",
+            "color": "rgba(255,127,14)"
         },
         {
             "relationEng": "isPartOf",
@@ -1425,7 +1495,8 @@
             "source": "J009",
             "target": "V009",
             "id": 70,
-            "label": "\ud3ec\ud568\ub418\ub2e4"
+            "label": "\ud3ec\ud568\ub418\ub2e4",
+            "color": "rgba(227,119,194)"
         },
         {
             "relationEng": "prints",
@@ -1433,7 +1504,8 @@
             "source": "B001",
             "target": "PB001",
             "id": 71,
-            "label": "\uac04\ud589\ud558\ub2e4"
+            "label": "\uac04\ud589\ud558\ub2e4",
+            "color": "rgba(31,119,180)"
         },
         {
             "relationEng": "prints",
@@ -1441,7 +1513,8 @@
             "source": "B002",
             "target": "PB002",
             "id": 72,
-            "label": "\uac04\ud589\ud558\ub2e4"
+            "label": "\uac04\ud589\ud558\ub2e4",
+            "color": "rgba(31,119,180)"
         },
         {
             "relationEng": "prints",
@@ -1449,7 +1522,8 @@
             "source": "B003",
             "target": "PB003",
             "id": 73,
-            "label": "\uac04\ud589\ud558\ub2e4"
+            "label": "\uac04\ud589\ud558\ub2e4",
+            "color": "rgba(31,119,180)"
         },
         {
             "relationEng": "prints",
@@ -1457,7 +1531,8 @@
             "source": "B004",
             "target": "PB002",
             "id": 74,
-            "label": "\uac04\ud589\ud558\ub2e4"
+            "label": "\uac04\ud589\ud558\ub2e4",
+            "color": "rgba(31,119,180)"
         },
         {
             "relationEng": "prints",
@@ -1465,7 +1540,8 @@
             "source": "B005",
             "target": "PB004",
             "id": 75,
-            "label": "\uac04\ud589\ud558\ub2e4"
+            "label": "\uac04\ud589\ud558\ub2e4",
+            "color": "rgba(31,119,180)"
         },
         {
             "relationEng": "prints",
@@ -1473,7 +1549,8 @@
             "source": "B006",
             "target": "PB005",
             "id": 76,
-            "label": "\uac04\ud589\ud558\ub2e4"
+            "label": "\uac04\ud589\ud558\ub2e4",
+            "color": "rgba(31,119,180)"
         },
         {
             "relationEng": "prints",
@@ -1481,7 +1558,8 @@
             "source": "B007",
             "target": "PB006",
             "id": 77,
-            "label": "\uac04\ud589\ud558\ub2e4"
+            "label": "\uac04\ud589\ud558\ub2e4",
+            "color": "rgba(31,119,180)"
         },
         {
             "relationEng": "prints",
@@ -1489,7 +1567,8 @@
             "source": "B008",
             "target": "PB007",
             "id": 78,
-            "label": "\uac04\ud589\ud558\ub2e4"
+            "label": "\uac04\ud589\ud558\ub2e4",
+            "color": "rgba(31,119,180)"
         }
     ]
 }
