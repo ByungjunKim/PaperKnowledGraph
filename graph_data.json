@@ -6,938 +6,859 @@
         {
             "class_field": "Paper",
             "url": "http://www.klbksk.com/wiki/index.php/HDAA0001",
-            "key": "SP001",
+            "id": "SP001",
             "label": "'\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'\uc758 \ud604\uc2e4 \uc778\uc2dd\uacfc \uc804\ub9dd",
-            "attributes": {
-                "group": 0,
-                "x": 9,
-                "y": -11,
-                "color": "rgba(31,119,180)"
-            }
+            "name": "'\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'\uc758 \ud604\uc2e4 \uc778\uc2dd\uacfc \uc804\ub9dd",
+            "group": 0,
+            "x": 9,
+            "y": -11,
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Paper",
             "url": "",
-            "key": "SP002",
+            "id": "SP002",
             "label": "'\uadfc\ub300\ubb38\ud559\uc758 \uc885\uc5b8, \uadf8\ub9ac\uace0 '\uc18c\uc124'\uc774\ub77c\uace0 \ubd88\ub9ac\ub294 \ub300\ub7b5\ub09c\uac10\ud55c \uae00\uc4f0\uae30\ub4e4",
-            "attributes": {
-                "group": 1,
-                "x": 5,
-                "y": 91,
-                "color": "rgba(255,127,14)"
-            }
+            "name": "'\uadfc\ub300\ubb38\ud559\uc758 \uc885\uc5b8, \uadf8\ub9ac\uace0 '\uc18c\uc124'\uc774\ub77c\uace0 \ubd88\ub9ac\ub294 \ub300\ub7b5\ub09c\uac10\ud55c \uae00\uc4f0\uae30\ub4e4",
+            "group": 3,
+            "x": 5,
+            "y": 91,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Paper",
             "url": "",
-            "key": "SP003",
+            "id": "SP003",
             "label": "'\ud48d\uc18d\uc0ac'\uc640 \ubb38\ud559\uc758 \uc9c8\uc11c",
-            "attributes": {
-                "group": 2,
-                "x": 127,
-                "y": -18,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "'\ud48d\uc18d\uc0ac'\uc640 \ubb38\ud559\uc758 \uc9c8\uc11c",
+            "group": 2,
+            "x": 127,
+            "y": -18,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Paper",
             "url": "",
-            "key": "SP004",
+            "id": "SP004",
             "label": "\ubb38\ud559\uc744 \ub118\uc5b4\uc11c\ub294 \ubb38\ud559\uc758 \uae38",
-            "attributes": {
-                "group": 3,
-                "x": -37,
-                "y": 92,
-                "color": "rgba(214,39,40)"
-            }
+            "name": "\ubb38\ud559\uc744 \ub118\uc5b4\uc11c\ub294 \ubb38\ud559\uc758 \uae38",
+            "group": 3,
+            "x": -37,
+            "y": 92,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Paper",
             "url": "",
-            "key": "SP005",
+            "id": "SP005",
             "label": "\ud48d\uc18d\u00b7\ubb38\ud654\u00b7\ubb38\ud559\uc0ac",
-            "attributes": {
-                "group": 4,
-                "x": 123,
-                "y": 30,
-                "color": "rgba(148,103,189)"
-            }
+            "name": "\ud48d\uc18d\u00b7\ubb38\ud654\u00b7\ubb38\ud559\uc0ac",
+            "group": 10,
+            "x": 123,
+            "y": 30,
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Paper",
             "url": "",
-            "key": "SP006",
+            "id": "SP006",
             "label": "'\ubb38\ud559' '\u53f2' \uc5c6\ub294 \uc2dc\ub300\uc758 \ubb38\ud559\uc5f0\uad6c",
-            "attributes": {
-                "group": 5,
-                "x": -67,
-                "y": 74,
-                "color": "rgba(140,86,75)"
-            }
+            "name": "'\ubb38\ud559' '\u53f2' \uc5c6\ub294 \uc2dc\ub300\uc758 \ubb38\ud559\uc5f0\uad6c",
+            "group": 5,
+            "x": -67,
+            "y": 74,
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Paper",
             "url": "",
-            "key": "SP007",
+            "id": "SP007",
             "label": "\ubb38\ud559\uc758 \uc804\ub77d\u2015\ubb34\ub77c\uce74\ubbf8[\u6751\u4e0a] \ud604\uc0c1\uc744 \ub193\uace0",
-            "attributes": {
-                "group": 6,
-                "x": -73,
-                "y": -82,
-                "color": "rgba(227,119,194)"
-            }
+            "name": "\ubb38\ud559\uc758 \uc804\ub77d\u2015\ubb34\ub77c\uce74\ubbf8[\u6751\u4e0a] \ud604\uc0c1\uc744 \ub193\uace0",
+            "group": 6,
+            "x": -73,
+            "y": -82,
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Paper",
             "url": "",
-            "key": "SP008",
+            "id": "SP008",
             "label": "\uc624\ub527\uc138\uc6b0\uc2a4\uc758 \ubcc0\uba85",
-            "attributes": {
-                "group": 2,
-                "x": 120,
-                "y": -35,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\uc624\ub527\uc138\uc6b0\uc2a4\uc758 \ubcc0\uba85",
+            "group": 2,
+            "x": 120,
+            "y": -35,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Paper",
             "url": "",
-            "key": "SP009",
+            "id": "SP009",
             "label": "\uc0c8\ub85c\uc6b4 \uae00\uc4f0\uae30\uc640 \ubb38\ud559\uc5f0\uad6c\uc5d0 \ub300\ud55c \uc2dc\ub860",
-            "attributes": {
-                "group": 7,
-                "x": -68,
-                "y": 40,
-                "color": "rgba(127,127,127)"
-            }
+            "name": "\uc0c8\ub85c\uc6b4 \uae00\uc4f0\uae30\uc640 \ubb38\ud559\uc5f0\uad6c\uc5d0 \ub300\ud55c \uc2dc\ub860",
+            "group": 11,
+            "x": -68,
+            "y": 40,
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Paper",
             "url": "",
-            "key": "SP010",
+            "id": "SP010",
             "label": "\uac1c\uc778\uc758 \uc774\ub370\uc62c\ub85c\uae30\ub97c \ub118\uc5b4\uc11c",
-            "attributes": {
-                "group": 8,
-                "x": -39,
-                "y": -119,
-                "color": "rgba(188,189,34)"
-            }
+            "name": "\uac1c\uc778\uc758 \uc774\ub370\uc62c\ub85c\uae30\ub97c \ub118\uc5b4\uc11c",
+            "group": 12,
+            "x": -39,
+            "y": -119,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Paper",
             "url": "",
-            "key": "SP011",
+            "id": "SP011",
             "label": "\ubb34\uc5c7\uc774 \ud55c\uad6d\ubb38\ud559\uc758 \ubcf4\ub78c\uc778\uac00-\ubb38\ud559\ud3c9\ub860\uac00 \ubc31\ub099\uccad\uacfc\uc758 \ub300\ud654",
-            "attributes": {
-                "group": 9,
-                "x": -62,
-                "y": -40,
-                "color": "rgba(23,190,207)"
-            }
+            "name": "\ubb34\uc5c7\uc774 \ud55c\uad6d\ubb38\ud559\uc758 \ubcf4\ub78c\uc778\uac00-\ubb38\ud559\ud3c9\ub860\uac00 \ubc31\ub099\uccad\uacfc\uc758 \ub300\ud654",
+            "group": 6,
+            "x": -62,
+            "y": -40,
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Paper",
             "url": "",
-            "key": "SP012",
+            "id": "SP012",
             "label": "\ubb38\ud559\uc758 \ubb35\uc2dc\ub85d \uc774\ud6c4",
-            "attributes": {
-                "group": 3,
-                "x": -73,
-                "y": 23,
-                "color": "rgba(214,39,40)"
-            }
+            "name": "\ubb38\ud559\uc758 \ubb35\uc2dc\ub85d \uc774\ud6c4",
+            "group": 6,
+            "x": -73,
+            "y": 23,
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Text",
-            "key": "T01SP001",
+            "id": "T01SP001",
             "label": "1.\uc11c\ub860",
-            "attributes": {
-                "group": 2,
-                "x": 76,
-                "y": -2,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "1.\uc11c\ub860",
+            "group": 2,
+            "x": 76,
+            "y": -2,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Text",
-            "key": "T02SP001",
+            "id": "T02SP001",
             "label": "2.\ubb38\ud559\uc0ac\uc758 \uc804\ud68c\uc640 '\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'",
-            "attributes": {
-                "group": 3,
-                "x": -23,
-                "y": 41,
-                "color": "rgba(214,39,40)"
-            }
+            "name": "2.\ubb38\ud559\uc0ac\uc758 \uc804\ud68c\uc640 '\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'",
+            "group": 3,
+            "x": -23,
+            "y": 41,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Text",
-            "key": "T03SP001",
+            "id": "T03SP001",
             "label": "3.\uadfc\ub300 \ubb38\ud559\uc8fc\uc758\uc640 \ubb38\ud654\uc801 \ud604\uc2e4\uc5d0 \ub300\ud55c \uc131\ucc30",
-            "attributes": {
-                "group": 9,
-                "x": -21,
-                "y": -63,
-                "color": "rgba(23,190,207)"
-            }
+            "name": "3.\uadfc\ub300 \ubb38\ud559\uc8fc\uc758\uc640 \ubb38\ud654\uc801 \ud604\uc2e4\uc5d0 \ub300\ud55c \uc131\ucc30",
+            "group": 12,
+            "x": -21,
+            "y": -63,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Text",
-            "key": "T04SP001",
+            "id": "T04SP001",
             "label": "4.\ubb38\ud654\uc0ac\ub85c\uc11c\uc758 '\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'\uc640 \ubb38\ud654\uc5f0\uad6c\ub85c\uc11c\uc758 '\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'",
-            "attributes": {
-                "group": 0,
-                "x": 25,
-                "y": -6,
-                "color": "rgba(31,119,180)"
-            }
+            "name": "4.\ubb38\ud654\uc0ac\ub85c\uc11c\uc758 '\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'\uc640 \ubb38\ud654\uc5f0\uad6c\ub85c\uc11c\uc758 '\ubb38\ud654\ub860\uc801 \uc5f0\uad6c'",
+            "group": 0,
+            "x": 25,
+            "y": -6,
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Text",
-            "key": "T05SP001",
+            "id": "T05SP001",
             "label": "5.\uacb0\ub860\uc5d0 \ub300\uc2e0\ud558\uc5ec",
-            "attributes": {
-                "group": 0,
-                "x": 33,
-                "y": -23,
-                "color": "rgba(31,119,180)"
-            }
+            "name": "5.\uacb0\ub860\uc5d0 \ub300\uc2e0\ud558\uc5ec",
+            "group": 0,
+            "x": 33,
+            "y": -23,
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P001",
+            "id": "P001",
             "label": "\ucc9c\uc815\ud658",
-            "attributes": {
-                "group": 7,
-                "x": -22,
-                "y": -2,
-                "color": "rgba(127,127,127)"
-            }
+            "name": "\ucc9c\uc815\ud658",
+            "group": 11,
+            "x": -22,
+            "y": -2,
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P002",
+            "id": "P002",
             "label": "\uace0\ubd09\uc900",
-            "attributes": {
-                "group": 1,
-                "x": 40,
-                "y": 128,
-                "color": "rgba(255,127,14)"
-            }
+            "name": "\uace0\ubd09\uc900",
+            "group": 3,
+            "x": 40,
+            "y": 128,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P003",
+            "id": "P003",
             "label": "\uad8c\ubcf4\ub4dc\ub798",
-            "attributes": {
-                "group": 2,
-                "x": 177,
-                "y": -1,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\uad8c\ubcf4\ub4dc\ub798",
+            "group": 2,
+            "x": 177,
+            "y": -1,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P004",
+            "id": "P004",
             "label": "\uad8c\uc131\uc6b0",
-            "attributes": {
-                "group": 3,
-                "x": -29,
-                "y": 142,
-                "color": "rgba(214,39,40)"
-            }
+            "name": "\uad8c\uc131\uc6b0",
+            "group": 3,
+            "x": -29,
+            "y": 142,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P005",
+            "id": "P005",
             "label": "\uae40\ub3d9\uc2dd",
-            "attributes": {
-                "group": 4,
-                "x": 151,
-                "y": 74,
-                "color": "rgba(148,103,189)"
-            }
+            "name": "\uae40\ub3d9\uc2dd",
+            "group": 10,
+            "x": 151,
+            "y": 74,
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P006",
+            "id": "P006",
             "label": "\ubc15\ud5cc\ud638",
-            "attributes": {
-                "group": 5,
-                "x": -85,
-                "y": 117,
-                "color": "rgba(140,86,75)"
-            }
+            "name": "\ubc15\ud5cc\ud638",
+            "group": 5,
+            "x": -85,
+            "y": 117,
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P007",
+            "id": "P007",
             "label": "\uc720\uc885\ud638",
-            "attributes": {
-                "group": 6,
-                "x": -103,
-                "y": -125,
-                "color": "rgba(227,119,194)"
-            }
+            "name": "\uc720\uc885\ud638",
+            "group": 6,
+            "x": -103,
+            "y": -125,
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P008",
+            "id": "P008",
             "label": "\uc774\uacbd\ud6c8",
-            "attributes": {
-                "group": 2,
-                "x": 172,
-                "y": -28,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\uc774\uacbd\ud6c8",
+            "group": 2,
+            "x": 172,
+            "y": -28,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P009",
+            "id": "P009",
             "label": "\ud558\uc815\uc77c",
-            "attributes": {
-                "group": 8,
-                "x": -26,
-                "y": -167,
-                "color": "rgba(188,189,34)"
-            }
+            "name": "\ud558\uc815\uc77c",
+            "group": 12,
+            "x": -26,
+            "y": -167,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P010",
+            "id": "P010",
             "label": "\ud669\uc885\uc5f0",
-            "attributes": {
-                "group": 3,
-                "x": -52,
-                "y": 5,
-                "color": "rgba(214,39,40)"
-            }
+            "name": "\ud669\uc885\uc5f0",
+            "group": 6,
+            "x": -52,
+            "y": 5,
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P011",
+            "id": "P011",
             "label": "\uac00\ub77c\ud0c0\ub2c8 \uace0\uc9c4",
-            "attributes": {
-                "group": 3,
-                "x": -44,
-                "y": 56,
-                "color": "rgba(214,39,40)"
-            }
+            "name": "\uac00\ub77c\ud0c0\ub2c8 \uace0\uc9c4",
+            "group": 3,
+            "x": -44,
+            "y": 56,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P012",
+            "id": "P012",
             "label": "\uc2ac\ub77c\ubcf4\uc608 \uc9c0\uc81d",
-            "attributes": {
-                "group": 2,
-                "x": 102,
-                "y": 0,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\uc2ac\ub77c\ubcf4\uc608 \uc9c0\uc81d",
+            "group": 2,
+            "x": 102,
+            "y": 0,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P013",
+            "id": "P013",
             "label": "\uc640\ud0c0\ub098\ubca0 \ud788\ub85c\uc2dc",
-            "attributes": {
-                "group": 12,
-                "x": -28,
-                "y": 31,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\uc640\ud0c0\ub098\ubca0 \ud788\ub85c\uc2dc",
+            "group": 13,
+            "x": -28,
+            "y": 31,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P014",
+            "id": "P014",
             "label": "\ud1a0\ub4dc \uae30\ud2c0\ub9b0",
-            "attributes": {
-                "group": 13,
-                "x": -31,
-                "y": 29,
-                "color": "rgba(214,39,40)"
-            }
+            "name": "\ud1a0\ub4dc \uae30\ud2c0\ub9b0",
+            "group": 14,
+            "x": -31,
+            "y": 29,
+            "color": "rgba(148,103,189)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P015",
+            "id": "P015",
             "label": "\ud1a0\uba38\uc2a4 L.\ud504\ub9ac\ub4dc\uba3c",
-            "attributes": {
-                "group": 14,
-                "x": -33,
-                "y": 26,
-                "color": "rgba(148,103,189)"
-            }
+            "name": "\ud1a0\uba38\uc2a4 L.\ud504\ub9ac\ub4dc\uba3c",
+            "group": 1,
+            "x": -33,
+            "y": 26,
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P016",
+            "id": "P016",
             "label": "\uc870\uc131\uba74",
-            "attributes": {
-                "group": 15,
-                "x": -35,
-                "y": 24,
-                "color": "rgba(140,86,75)"
-            }
+            "name": "\uc870\uc131\uba74",
+            "group": 4,
+            "x": -35,
+            "y": 24,
+            "color": "rgba(148,103,189)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P017",
+            "id": "P017",
             "label": "\ub0a8\uc7ac\uc77c",
-            "attributes": {
-                "group": 16,
-                "x": -37,
-                "y": 21,
-                "color": "rgba(227,119,194)"
-            }
+            "name": "\ub0a8\uc7ac\uc77c",
+            "group": 7,
+            "x": -37,
+            "y": 21,
+            "color": "rgba(127,127,127)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P018",
+            "id": "P018",
             "label": "\uae40\uc0c1\ucca0",
-            "attributes": {
-                "group": 10,
-                "x": -39,
-                "y": 18,
-                "color": "rgba(31,119,180)"
-            }
+            "name": "\uae40\uc0c1\ucca0",
+            "group": 8,
+            "x": -39,
+            "y": 18,
+            "color": "rgba(188,189,34)"
         },
         {
             "class_field": "Person",
             "chiname": "",
-            "key": "P019",
+            "id": "P019",
             "label": "\ubc15\ubbfc\uaddc",
-            "attributes": {
-                "group": 9,
-                "x": -49,
-                "y": -80,
-                "color": "rgba(23,190,207)"
-            }
+            "name": "\ubc15\ubbfc\uaddc",
+            "group": 12,
+            "x": -49,
+            "y": -80,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Journal",
             "chiname": "",
-            "key": "J001",
+            "id": "J001",
             "label": "\uc0c1\ud5c8\ud559\ubcf4",
-            "attributes": {
-                "group": 0,
-                "x": 69,
-                "y": -98,
-                "color": "rgba(31,119,180)"
-            }
+            "name": "\uc0c1\ud5c8\ud559\ubcf4",
+            "group": 0,
+            "x": 69,
+            "y": -98,
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Journal",
             "chiname": "",
-            "key": "J002",
+            "id": "J002",
             "label": "\uc791\uac00\uc640 \ube44\ud3c9",
-            "attributes": {
-                "group": 1,
-                "x": 29,
-                "y": 198,
-                "color": "rgba(255,127,14)"
-            }
+            "name": "\uc791\uac00\uc640 \ube44\ud3c9",
+            "group": 3,
+            "x": 29,
+            "y": 198,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Journal",
             "chiname": "",
-            "key": "J003",
+            "id": "J003",
             "label": "\ud604\ub300\uc18c\uc124\uc5f0\uad6c",
-            "attributes": {
-                "group": 2,
-                "x": 211,
-                "y": -80,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\ud604\ub300\uc18c\uc124\uc5f0\uad6c",
+            "group": 2,
+            "x": 211,
+            "y": -80,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Journal",
             "chiname": "",
-            "key": "J004",
+            "id": "J004",
             "label": "\ubb38\ud559\uc218\ucca9",
-            "attributes": {
-                "group": 3,
-                "x": -64,
-                "y": 195,
-                "color": "rgba(214,39,40)"
-            }
+            "name": "\ubb38\ud559\uc218\ucca9",
+            "group": 3,
+            "x": -64,
+            "y": 195,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Journal",
             "chiname": "",
-            "key": "J005",
+            "id": "J005",
             "label": "\uc5ed\uc0ac\ube44\ud3c9",
-            "attributes": {
-                "group": 5,
-                "x": -146,
-                "y": 144,
-                "color": "rgba(140,86,75)"
-            }
+            "name": "\uc5ed\uc0ac\ube44\ud3c9",
+            "group": 5,
+            "x": -146,
+            "y": 144,
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Journal",
             "chiname": "",
-            "key": "J006",
+            "id": "J006",
             "label": "\ud604\ub300\ubb38\ud559",
-            "attributes": {
-                "group": 6,
-                "x": -155,
-                "y": -34,
-                "color": "rgba(227,119,194)"
-            }
+            "name": "\ud604\ub300\ubb38\ud559",
+            "group": 6,
+            "x": -155,
+            "y": -34,
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Journal",
             "chiname": "",
-            "key": "J007",
+            "id": "J007",
             "label": "\ubbfc\uc871\ubb38\ud559\uc0ac\uc5f0\uad6c",
-            "attributes": {
-                "group": 7,
-                "x": -179,
-                "y": 66,
-                "color": "rgba(127,127,127)"
-            }
+            "name": "\ubbfc\uc871\ubb38\ud559\uc0ac\uc5f0\uad6c",
+            "group": 11,
+            "x": -179,
+            "y": 66,
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Journal",
             "chiname": "",
-            "key": "J008",
+            "id": "J008",
             "label": "\ube44\ud3c9\uacfc \uc804\ub9dd",
-            "attributes": {
-                "group": 8,
-                "x": -80,
-                "y": -211,
-                "color": "rgba(188,189,34)"
-            }
+            "name": "\ube44\ud3c9\uacfc \uc804\ub9dd",
+            "group": 12,
+            "x": -80,
+            "y": -211,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Journal",
             "chiname": "",
-            "key": "J009",
+            "id": "J009",
             "label": "\ucc3d\uc791\uacfc \ube44\ud3c9",
-            "attributes": {
-                "group": 9,
-                "x": -168,
-                "y": -79,
-                "color": "rgba(23,190,207)"
-            }
+            "name": "\ucc3d\uc791\uacfc \ube44\ud3c9",
+            "group": 6,
+            "x": -168,
+            "y": -79,
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Volume",
             "chiname": "",
-            "key": "V001",
+            "id": "V001",
             "label": "\uc0c1\ud5c8\ud559\ubcf4_19",
-            "attributes": {
-                "group": 0,
-                "x": 38,
-                "y": -48,
-                "color": "rgba(31,119,180)"
-            }
+            "name": "\uc0c1\ud5c8\ud559\ubcf4_19",
+            "group": 0,
+            "x": 38,
+            "y": -48,
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Volume",
             "chiname": "",
-            "key": "V002",
+            "id": "V002",
             "label": "\uc791\uac00\uc640 \ube44\ud3c9_2006\uc0c1\ubc18\uae30",
-            "attributes": {
-                "group": 1,
-                "x": 16,
-                "y": 148,
-                "color": "rgba(255,127,14)"
-            }
+            "name": "\uc791\uac00\uc640 \ube44\ud3c9_2006\uc0c1\ubc18\uae30",
+            "group": 3,
+            "x": 16,
+            "y": 148,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Volume",
             "chiname": "",
-            "key": "V003",
+            "id": "V003",
             "label": "\ud604\ub300\uc18c\uc124\uc5f0\uad6c_27",
-            "attributes": {
-                "group": 2,
-                "x": 163,
-                "y": -60,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\ud604\ub300\uc18c\uc124\uc5f0\uad6c_27",
+            "group": 2,
+            "x": 163,
+            "y": -60,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Volume",
             "chiname": "",
-            "key": "V004",
+            "id": "V004",
             "label": "\ubb38\ud559\uc218\ucca9_2005\ubd04",
-            "attributes": {
-                "group": 3,
-                "x": -60,
-                "y": 142,
-                "color": "rgba(214,39,40)"
-            }
+            "name": "\ubb38\ud559\uc218\ucca9_2005\ubd04",
+            "group": 3,
+            "x": -60,
+            "y": 142,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Volume",
             "chiname": "",
-            "key": "V005",
+            "id": "V005",
             "label": "\uc5ed\uc0ac\ube44\ud3c9_75",
-            "attributes": {
-                "group": 5,
-                "x": -114,
-                "y": 102,
-                "color": "rgba(140,86,75)"
-            }
+            "name": "\uc5ed\uc0ac\ube44\ud3c9_75",
+            "group": 5,
+            "x": -114,
+            "y": 102,
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Volume",
             "chiname": "",
-            "key": "V006",
+            "id": "V006",
             "label": "\ud604\ub300\ubb38\ud559_2006.06",
-            "attributes": {
-                "group": 6,
-                "x": -126,
-                "y": -81,
-                "color": "rgba(227,119,194)"
-            }
+            "name": "\ud604\ub300\ubb38\ud559_2006.06",
+            "group": 6,
+            "x": -126,
+            "y": -81,
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Volume",
             "chiname": "",
-            "key": "V007",
+            "id": "V007",
             "label": "\ubbfc\uc871\ubb38\ud559\uc0ac\uc5f0\uad6c_26",
-            "attributes": {
-                "group": 7,
-                "x": -126,
-                "y": 54,
-                "color": "rgba(127,127,127)"
-            }
+            "name": "\ubbfc\uc871\ubb38\ud559\uc0ac\uc5f0\uad6c_26",
+            "group": 11,
+            "x": -126,
+            "y": 54,
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Volume",
             "chiname": "",
-            "key": "V008",
+            "id": "V008",
             "label": "\ube44\ud3c9\uacfc \uc804\ub9dd_8",
-            "attributes": {
-                "group": 8,
-                "x": -66,
-                "y": -164,
-                "color": "rgba(188,189,34)"
-            }
+            "name": "\ube44\ud3c9\uacfc \uc804\ub9dd_8",
+            "group": 12,
+            "x": -66,
+            "y": -164,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Volume",
             "chiname": "",
-            "key": "V009",
+            "id": "V009",
             "label": "\ucc3d\uc791\uacfc \ube44\ud3c9_131",
-            "attributes": {
-                "group": 9,
-                "x": -117,
-                "y": -56,
-                "color": "rgba(23,190,207)"
-            }
+            "name": "\ucc3d\uc791\uacfc \ube44\ud3c9_131",
+            "group": 6,
+            "x": -117,
+            "y": -56,
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Volume",
             "chiname": "",
-            "key": "V010",
+            "id": "V010",
             "label": "\ud604\ub300\ubb38\ud559_2006.08",
-            "attributes": {
-                "group": 6,
-                "x": -125,
-                "y": 8,
-                "color": "rgba(227,119,194)"
-            }
+            "name": "\ud604\ub300\ubb38\ud559_2006.08",
+            "group": 6,
+            "x": -125,
+            "y": 8,
+            "color": "rgba(227,119,194)"
         },
         {
             "class_field": "Book",
             "engname": "",
-            "key": "B001",
+            "id": "B001",
             "label": "\uac70\uc6b8\uacfc \ubbf8\ub85c",
-            "attributes": {
-                "group": 4,
-                "x": 174,
-                "y": 47,
-                "color": "rgba(148,103,189)"
-            }
+            "name": "\uac70\uc6b8\uacfc \ubbf8\ub85c",
+            "group": 10,
+            "x": 174,
+            "y": 47,
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Book",
             "engname": "",
-            "key": "B002",
+            "id": "B002",
             "label": "\uadfc\ub300\ubb38\ud559\uc758 \uc885\uc5b8",
-            "attributes": {
-                "group": 2,
-                "x": 13,
-                "y": 62,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\uadfc\ub300\ubb38\ud559\uc758 \uc885\uc5b8",
+            "group": 2,
+            "x": 13,
+            "y": 62,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Book",
             "engname": "",
-            "key": "B003",
+            "id": "B003",
             "label": "\ud574\ubc29\uc804\ud6c4\uc0ac\uc758 \uc7ac\uc778\uc2dd",
-            "attributes": {
-                "group": 2,
-                "x": 95,
-                "y": -47,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\ud574\ubc29\uc804\ud6c4\uc0ac\uc758 \uc7ac\uc778\uc2dd",
+            "group": 2,
+            "x": 95,
+            "y": -47,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Book",
             "engname": "",
-            "key": "B004",
+            "id": "B004",
             "label": "\uc2e0\uccb4 \uc5c6\ub294 \uae30\uad00-\ub4e4\ub8b0\uc988\uc640 \uacb0\uacfc\ub4e4",
-            "attributes": {
-                "group": 2,
-                "x": 79,
-                "y": 37,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\uc2e0\uccb4 \uc5c6\ub294 \uae30\uad00-\ub4e4\ub8b0\uc988\uc640 \uacb0\uacfc\ub4e4",
+            "group": 2,
+            "x": 79,
+            "y": 37,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Book",
             "engname": "",
-            "key": "B005",
+            "id": "B005",
             "label": "\uccad\uc911\uc758 \ud0c4\uc0dd",
-            "attributes": {
-                "group": 9,
-                "x": -4,
-                "y": -111,
-                "color": "rgba(23,190,207)"
-            }
+            "name": "\uccad\uc911\uc758 \ud0c4\uc0dd",
+            "group": 12,
+            "x": -4,
+            "y": -111,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Book",
             "engname": "",
-            "key": "B006",
+            "id": "B006",
             "label": "\ub300\uc911\ubb38\ud559\uacfc \uc815\uc804\uc5d0 \ub300\ud55c \ubc18\uc5ed",
-            "attributes": {
-                "group": 2,
-                "x": 101,
-                "y": 42,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\ub300\uc911\ubb38\ud559\uacfc \uc815\uc804\uc5d0 \ub300\ud55c \ubc18\uc5ed",
+            "group": 2,
+            "x": 101,
+            "y": 42,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Book",
             "engname": "",
-            "key": "B007",
+            "id": "B007",
             "label": "\ubb34\ud55c \ubbf8\ub514\uc5b4",
-            "attributes": {
-                "group": 9,
-                "x": 14,
-                "y": -104,
-                "color": "rgba(23,190,207)"
-            }
+            "name": "\ubb34\ud55c \ubbf8\ub514\uc5b4",
+            "group": 12,
+            "x": 14,
+            "y": -104,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Book",
             "engname": "",
-            "key": "B008",
+            "id": "B008",
             "label": "\uc138\uacc4\ub294 \ud3c9\ud3c9\ud558\ub2e4",
-            "attributes": {
-                "group": 3,
-                "x": -14,
-                "y": 79,
-                "color": "rgba(214,39,40)"
-            }
+            "name": "\uc138\uacc4\ub294 \ud3c9\ud3c9\ud558\ub2e4",
+            "group": 3,
+            "x": -14,
+            "y": 79,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Publisher",
-            "key": "PB001",
+            "id": "PB001",
             "label": "\ucc9c\ub144\uc758\uc2dc\uc791",
-            "attributes": {
-                "group": 4,
-                "x": 217,
-                "y": 74,
-                "color": "rgba(148,103,189)"
-            }
+            "name": "\ucc9c\ub144\uc758\uc2dc\uc791",
+            "group": 10,
+            "x": 217,
+            "y": 74,
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Publisher",
-            "key": "PB002",
+            "id": "PB002",
             "label": "\ub3c4\uc11c\ucd9c\ud310b",
-            "attributes": {
-                "group": 2,
-                "x": 62,
-                "y": 82,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\ub3c4\uc11c\ucd9c\ud310b",
+            "group": 2,
+            "x": 62,
+            "y": 82,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Publisher",
-            "key": "PB003",
+            "id": "PB003",
             "label": "\ucc45\uc138\uc0c1",
-            "attributes": {
-                "group": 2,
-                "x": 132,
-                "y": -90,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\ucc45\uc138\uc0c1",
+            "group": 2,
+            "x": 132,
+            "y": -90,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Publisher",
-            "key": "PB004",
+            "id": "PB004",
             "label": "\uac15",
-            "attributes": {
-                "group": 9,
-                "x": 7,
-                "y": -165,
-                "color": "rgba(23,190,207)"
-            }
+            "name": "\uac15",
+            "group": 12,
+            "x": 7,
+            "y": -165,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Publisher",
-            "key": "PB005",
+            "id": "PB005",
             "label": "\uc18c\uba85\ucd9c\ud310",
-            "attributes": {
-                "group": 2,
-                "x": 133,
-                "y": 89,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\uc18c\uba85\ucd9c\ud310",
+            "group": 2,
+            "x": 133,
+            "y": 89,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Publisher",
-            "key": "PB006",
+            "id": "PB006",
             "label": "\ud734\uba3c\uc564\ubd81\uc2a4",
-            "attributes": {
-                "group": 9,
-                "x": 34,
-                "y": -156,
-                "color": "rgba(23,190,207)"
-            }
+            "name": "\ud734\uba3c\uc564\ubd81\uc2a4",
+            "group": 12,
+            "x": 34,
+            "y": -156,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Publisher",
-            "key": "PB007",
+            "id": "PB007",
             "label": "\ucc3d\ud574",
-            "attributes": {
-                "group": 3,
-                "x": -5,
-                "y": 136,
-                "color": "rgba(214,39,40)"
-            }
+            "name": "\ucc3d\ud574",
+            "group": 3,
+            "x": -5,
+            "y": 136,
+            "color": "rgba(214,39,40)"
         },
         {
             "class_field": "Group",
             "chiname": "",
-            "key": "G001",
+            "id": "G001",
             "label": "\uc0c1\ud5c8\ud559\ud68c",
-            "attributes": {
-                "group": 0,
-                "x": 97,
-                "y": -146,
-                "color": "rgba(31,119,180)"
-            }
+            "name": "\uc0c1\ud5c8\ud559\ud68c",
+            "group": 0,
+            "x": 97,
+            "y": -146,
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Group",
             "chiname": "",
-            "key": "G002",
+            "id": "G002",
             "label": "\ud55c\uad6d\ud604\ub300\uc18c\uc124\ud559\ud68c",
-            "attributes": {
-                "group": 2,
-                "x": 256,
-                "y": -93,
-                "color": "rgba(44,160,44)"
-            }
+            "name": "\ud55c\uad6d\ud604\ub300\uc18c\uc124\ud559\ud68c",
+            "group": 2,
+            "x": 256,
+            "y": -93,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Group",
             "chiname": "",
-            "key": "G003",
+            "id": "G003",
             "label": "\ub3d9\uad6d\ub300 \ud55c\uad6d\ubb38\ud654\uc5f0\uad6c\uc18c",
-            "attributes": {
-                "group": 11,
-                "x": 36,
-                "y": -22,
-                "color": "rgba(255,127,14)"
-            }
+            "name": "\ub3d9\uad6d\ub300 \ud55c\uad6d\ubb38\ud654\uc5f0\uad6c\uc18c",
+            "group": 9,
+            "x": 36,
+            "y": -22,
+            "color": "rgba(23,190,207)"
         },
         {
             "class_field": "Group",
             "chiname": "",
-            "key": "G004",
+            "id": "G004",
             "label": "\uc5ed\uc0ac\ubb38\uc81c\uc5f0\uad6c\uc18c",
-            "attributes": {
-                "group": 5,
-                "x": -173,
-                "y": 183,
-                "color": "rgba(140,86,75)"
-            }
+            "name": "\uc5ed\uc0ac\ubb38\uc81c\uc5f0\uad6c\uc18c",
+            "group": 5,
+            "x": -173,
+            "y": 183,
+            "color": "rgba(140,86,75)"
         },
         {
             "class_field": "Group",
             "chiname": "",
-            "key": "G005",
+            "id": "G005",
             "label": "\ubbfc\uc871\ubb38\ud559\uc0ac\ud559\ud68c",
-            "attributes": {
-                "group": 7,
-                "x": -226,
-                "y": 78,
-                "color": "rgba(127,127,127)"
-            }
+            "name": "\ubbfc\uc871\ubb38\ud559\uc0ac\ud559\ud68c",
+            "group": 11,
+            "x": -226,
+            "y": 78,
+            "color": "rgba(255,127,14)"
         },
         {
             "class_field": "Group",
             "chiname": "",
-            "key": "G006",
+            "id": "G006",
             "label": "\uc791\uac00\uc640\ube44\ud3c9 \ud3b8\uc9d1\ub3d9\uc778",
-            "attributes": {
-                "group": 8,
-                "x": -92,
-                "y": -255,
-                "color": "rgba(188,189,34)"
-            }
+            "name": "\uc791\uac00\uc640\ube44\ud3c9 \ud3b8\uc9d1\ub3d9\uc778",
+            "group": 12,
+            "x": -92,
+            "y": -255,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Term",
-            "key": "TM001",
+            "id": "TM001",
             "label": "\uc815\uc0c1\uc131",
-            "attributes": {
-                "group": 9,
-                "x": -25,
-                "y": -94,
-                "color": "rgba(23,190,207)"
-            }
+            "name": "\uc815\uc0c1\uc131",
+            "group": 12,
+            "x": -25,
+            "y": -94,
+            "color": "rgba(44,160,44)"
         },
         {
             "class_field": "Term",
-            "key": "TM002",
+            "id": "TM002",
             "label": "\uadfc\ub300\uc131",
-            "attributes": {
-                "group": 0,
-                "x": 0,
-                "y": 34,
-                "color": "rgba(31,119,180)"
-            }
+            "name": "\uadfc\ub300\uc131",
+            "group": 0,
+            "x": 0,
+            "y": 34,
+            "color": "rgba(31,119,180)"
         },
         {
             "class_field": "Term",
-            "key": "TM003",
+            "id": "TM003",
             "label": "\ub300\uc911\ubb38\ud654",
-            "attributes": {
-                "group": 0,
-                "x": 7,
-                "y": -64,
-                "color": "rgba(31,119,180)"
-            }
+            "name": "\ub300\uc911\ubb38\ud654",
+            "group": 0,
+            "x": 7,
+            "y": -64,
+            "color": "rgba(31,119,180)"
         }
     ],
-    "links": [
+    "edges": [
         {
             "relationEng": "writes",
             "relationKor": "\uc800\uc220\ud558\ub2e4",
