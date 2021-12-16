@@ -50,16 +50,25 @@
 <script src="plugins/sigma.layouts.forceAtlas2/worker.js"></script>
 <script src="plugins/sigma.layouts.forceAtlas2/supervisor.js"></script>
 <script src="plugins/sigma.renderers.edgeLabels/sigma.canvas.edges.labels.def.js"></script>
+<script src="plugins/sigma.plugins.neighborhoods/sigma.plugins.neighborhoods.js"></script>
+
 
 <!-- END SIGMA IMPORTS -->
 <script src="plugins/sigma.plugins.tooltips/sigma.plugins.tooltips.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <script src="plugins/sigma.plugins.filter/sigma.plugins.filter.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Lato:300,700' rel='stylesheet' type='text/css'>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bPopup/0.11.0/jquery.bpopup.min.js" integrity="sha512-kmrY+BFhi6ywgfK8hW1ySM/KYU3xPd4elbMhORq3DhacwqmitFrf3GB2HpLj3srV1zFsqxvAcZ4qU+y+ym1Eeg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+        integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+        crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bPopup/0.11.0/jquery.bpopup.min.js"
+        integrity="sha512-kmrY+BFhi6ywgfK8hW1ySM/KYU3xPd4elbMhORq3DhacwqmitFrf3GB2HpLj3srV1zFsqxvAcZ4qU+y+ym1Eeg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" href="styles.css">
 <div id="container">
     <style>
         #popup, .bMulti {
@@ -75,7 +84,7 @@
 
         #popup .logo {
             color: #2B91AF;
-            font: bold 325% 'Petrona',sans;
+            font: bold 325% 'Petrona', sans;
         }
 
         .button.b-close, .button.bClose {
@@ -99,6 +108,7 @@
             text-align: center;
             text-decoration: none;
         }
+
         #graph-container {
             top: 0;
             bottom: 0;
@@ -111,7 +121,7 @@
             max-width: 240px;
             max-height: 280px;
             background-color: rgb(249, 247, 237);
-            box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
             border-radius: 6px;
         }
 
@@ -150,6 +160,7 @@
         .sigma-tooltip.top {
             margin-top: -12px;
         }
+
         .sigma-tooltip.top > .arrow {
             left: 50%;
             bottom: -10px;
@@ -161,6 +172,7 @@
         .sigma-tooltip.bottom {
             margin-top: 12px;
         }
+
         .sigma-tooltip.bottom > .arrow {
             left: 50%;
             top: -10px;
@@ -172,6 +184,7 @@
         .sigma-tooltip.left {
             margin-left: -12px;
         }
+
         .sigma-tooltip.left > .arrow {
             top: 50%;
             right: -10px;
@@ -183,6 +196,7 @@
         .sigma-tooltip.right {
             margin-left: 12px;
         }
+
         .sigma-tooltip.right > .arrow {
             top: 50%;
             left: -10px;
@@ -190,6 +204,7 @@
             border-right-color: rgb(249, 247, 237);
             border-left-width: 0;
         }
+
         #control-pane {
             top: 10px;
             bottom: 10px;
@@ -197,8 +212,9 @@
             position: absolute;
             width: 300px;
             background-color: rgb(249, 247, 237);
-            box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
         }
+
         #control-pane > div {
             margin: 10px;
             overflow-x: auto;
@@ -206,59 +222,110 @@
 
     </style>
     <div id="graph-container">
-        <div class="wrapper">
-            <a class="zoom-in" href="#" title="Zoom in">Zoom in</a>
-            <a class="zoom-out" href="#" title="Zoom out">Zoom out</a>
-            <a class="initial" href="#" title="initial">Initial State</a>
-            <input type="button" value="Full Screen" onclick="toggleFullScreen()">
-        </div>
-    </div>
-    <div class="jumbotron jumbotron-fluid position-absolute bottom-0 start-0">
 
     </div>
+    <div class="wrapper">
+        <div class="controls">
 
-    <div id="control-pane">
-        <div class="container">
-            <div class="row">
-                <div class="search-bar">
-                    <input type="text" id="seeker" placeholder="search.." >
-                    <input type="button" value="Submit" id="search_button" onclick="search(document.getElementById('seeker').value)" />
-                </div>
+            <div class="react-sigma-control-fullscreen ico">
+                <button class="" title="Toggle Fullscreen" onclick="toggleFullScreen()">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em"
+                         width="1em" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd"
+                              d="M5.828 10.172a.5.5 0 0 0-.707 0l-4.096 4.096V11.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H4.5a.5.5 0 0 0 0-1H1.732l4.096-4.096a.5.5 0 0 0 0-.707zm4.344 0a.5.5 0 0 1 .707 0l4.096 4.096V11.5a.5.5 0 1 1 1 0v3.975a.5.5 0 0 1-.5.5H11.5a.5.5 0 0 1 0-1h2.768l-4.096-4.096a.5.5 0 0 1 0-.707zm0-4.344a.5.5 0 0 0 .707 0l4.096-4.096V4.5a.5.5 0 1 0 1 0V.525a.5.5 0 0 0-.5-.5H11.5a.5.5 0 0 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 0 .707zm-4.344 0a.5.5 0 0 1-.707 0L1.025 1.732V4.5a.5.5 0 0 1-1 0V.525a.5.5 0 0 1 .5-.5H4.5a.5.5 0 0 1 0 1H1.732l4.096 4.096a.5.5 0 0 1 0 .707z"></path>
+                    </svg>
+                </button>
             </div>
-            <div class="row">
-                <div id="content" display="none"></div>
-
-                <div id="popup" style="display: none;">
-                    <span class="button b-close"><span>X</span></span>
-
-                </div>
+            <div class="react-sigma-control-zoom-in ico">
+                <button class="zoom-in" title="Zoom In">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em"
+                         width="1em" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd"
+                              d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"></path>
+                        <path d="M10.344 11.742c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1 6.538 6.538 0 0 1-1.398 1.4z"></path>
+                        <path fill-rule="evenodd"
+                              d="M6.5 3a.5.5 0 0 1 .5.5V6h2.5a.5.5 0 0 1 0 1H7v2.5a.5.5 0 0 1-1 0V7H3.5a.5.5 0 0 1 0-1H6V3.5a.5.5 0 0 1 .5-.5z"></path>
+                    </svg>
+                </button>
             </div>
-            <div class="row">
-                <div class="col">
-                    <h1 class=>Description</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                </div>
+            <div class="react-sigma-control-zoom-out ico">
+                <button class="zoom-out" title="Zoom Out">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em"
+                         width="1em" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd"
+                              d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"></path>
+                        <path d="M10.344 11.742c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1 6.538 6.538 0 0 1-1.398 1.4z"></path>
+                        <path fill-rule="evenodd"
+                              d="M3 6.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5z"></path>
+                    </svg>
+                </button>
             </div>
-
+            <div class="react-sigma-control-zoom-center ico">
+                <button class="initial" title="See whole graph">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em"
+                         width="1em" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 5c-3.859 0-7 3.141-7 7s3.141 7 7 7 7-3.141 7-7-3.141-7-7-7zm0 12c-2.757 0-5-2.243-5-5s2.243-5 5-5 5 2.243 5 5-2.243 5-5 5z"></path>
+                        <path d="M12 9c-1.627 0-3 1.373-3 3s1.373 3 3 3 3-1.373 3-3-1.373-3-3-3z"></path>
+                    </svg>
+                </button>
+            </div>
         </div>
-        <h2 class="underline">filters</h2>
+    </div>
+<!--    <div>-->
+<!--        <h3>min degree <span id="min-degree-val">0</span></h3>-->
+<!--        0 <input id="min-degree" type="range" min="0" max="0" value="0"> <span id="max-degree-value">0</span><br>-->
+<!--    </div>-->
+    <div class="panels">
+        <div class="search-wrapper"><input id="seeker" type="search" placeholder="Search in nodes..."><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" class="icon" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+            <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+        </svg><input type="button" value="Submit" id="search_button"
+                     onclick="search(document.getElementById('seeker').value)"/></div>
+        <div class="row">
+            <div id="content" display="none"></div>
 
-        <div>
-            <h3>min degree <span id="min-degree-val">0</span></h3>
-            0 <input id="min-degree" type="range" min="0" max="0" value="0"> <span id="max-degree-value">0</span><br>
+            <div id="popup" style="display: none;">
+                <span class="button b-close"><span>X</span></span>
+
+            </div>
         </div>
-        <div>
-            <h3>node category</h3>
-            <select id="node-category">
+        <div class="panel">
+            <h2><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" class="text-muted" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"></path>
+                <path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"></path>
+            </svg> Description <button type="button"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path fill="none" d="M0 0h24v24H0z"></path>
+                <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"></path>
+            </svg></button></h2>
+            <div aria-hidden="false" class="rah-static rah-static--height-auto" style="height: auto; overflow: visible;">
+                <div>
+                    <p>This map represents a <i>network</i> of Wikipedia articles around the topic of "Data vizualisation". Each <i>node</i> represents an article, and each edge a <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/See_also">"See also" link</a>.</p>
+                    <p>The seed articles were selected by hand by the <a target="_blank" rel="noreferrer" href="https://medialab.sciencespo.fr/">Sciences-Po médialab</a> team, and the network was crawled using <a target="_blank" rel="noreferrer" href="https://densitydesign.github.io/strumentalia-seealsology/">Seealsology</a>, and then cleaned and enriched manually. This makes the dataset creditable to both the médialab team and <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedians">Wikipedia editors</a>.</p>
+                    <p>This web application has been developed by <a target="_blank" rel="noreferrer" href="https://www.ouestware.com/en/">OuestWare</a>, using <a target="_blank" rel="noreferrer" href="https://reactjs.org/">react</a> and <a target="_blank" rel="noreferrer" href="https://www.sigmajs.org">sigma.js</a>. You can read the source code <a target="_blank" rel="noreferrer" href="https://github.com/jacomyal/sigma.js/tree/main/demo">on GitHub</a>.</p>
+                    <p>Nodes sizes are related to their <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Betweenness_centrality">betweenness centrality</a>. More central nodes (ie. bigger nodes) are important crossing points in the network. Finally, You can click a node to open the related Wikipedia article.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="panel">
+            <h2><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" class="text-muted" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path fill="none" d="M0 0h24v24H0z"></path>
+                <path d="M12 2l-5.5 9h11z"></path>
+                <circle cx="17.5" cy="17.5" r="4.5"></circle>
+                <path d="M3 13.5h8v8H3z"></path>
+            </svg> Categories <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path fill="none" d="M0 0h24v24H0z"></path>
+                <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+            </svg><select id="node-category">
                 <option value="" selected>All categories</option>
-            </select>
+            </select></h2>
+            <div aria-hidden="true" class="rah-static rah-static--height-zero" style="height: 0px; overflow: hidden;">
+                <div style="display: none;">
+                    <p><i class="text-muted">Click a category to show/hide related pages from the network.</i></p>
+
+
+                </div>
+            </div>
         </div>
-        <span class="line"></span>
-        <div>
-            <button id="reset-btn">Reset filters</button>
-            <button id="export-btn">Export</button>
-        </div>
-        <div id="dump" class="hidden"></div>
     </div>
 
 
@@ -266,6 +333,15 @@
 
 </div>
 <script>
+    sigma.classes.graph.addMethod('neighbors', function(nodeId) {
+        var i,
+            neighbors = {},
+            index = this.allNeighborsIndex.get(nodeId).keyList() || {};
+        for (i = 0; i < index.length; i++) {
+            neighbors[index[i]] = this.nodesIndex.get(index[i]);
+        }
+        return neighbors;
+    });
     /**
      * This is an example on how to use node tooltips based on a random graph.
      */
@@ -278,7 +354,7 @@
     s = new sigma({
         graph: g,
         container: 'graph-container',
-        renderer:{
+        renderer: {
             container: document.getElementById('graph-container'),
             type: 'canvas'
         },
@@ -286,37 +362,107 @@
         settings: {
             edgeLabelSize: 'proportional',
             minArrowSize: 7,
-            originalColor:'#000',
-            drawEdgeLabels:true,}
+            drawEdgeLabels: true,
+        }
     });
 
     sigma.parsers.json(
         'graph_data.json',
         s,
-        function() {
+        function () {
 
             // this below adds x, y attributes as well as size = degree of the node
             var i,
                 nodes = s.graph.nodes(),
-                len = nodes.length;
+                len = nodes.length,
+                edges = s.graph.edges();
+
+            var nodeColors = {}
+            var edgeColors = {}
+            for (i = 0; i < len; i++) {
+                nodeColors[nodes[i].id] = {'color':nodes[i].color}
+            }
+            for (i = 0; i < len; i++) {
+                edgeColors[edges[i].id] = {'color':edges[i].color}
+            }
+
+
 
             for (i = 0; i < len; i++) {
                 nodes[i].size = s.graph.degree(nodes[i].id);
             }
 
-            s.graph.edges().forEach(function(edge){
+            s.graph.edges().forEach(function (edge) {
                 edge.type = "arrow";
             });
+
+            s.bind('hovers', function(e){
+                var hoverNode = e.data
+
+                if (e.data.current.nodes.length !==0){
+                    var nodeId = e.data.current.nodes[0].id
+                    var toKeep_in = s.graph.neighbors(nodeId);
+                    toKeep_in[nodeId] = nodeId
+                }
+                else {
+                    var nodeId = e.data.leave.nodes[0].id
+                    var toKeep_out = s.graph.neighbors(nodeId);
+                    // toKeep_out[nodeId] = nodeId
+                }
+
+                if (e.data.current.nodes.length !==0)
+                {
+                    s.graph.nodes().forEach(function(n) {
+                        if (toKeep_in[n.id])
+                            n.color = n.color;
+                        else
+                            n.color = '#eee';
+                    });
+
+                    s.graph.edges().forEach(function(e) {
+                        if (toKeep_in[e.source] && toKeep_in[e.target])
+                            e.color = e.color;
+                        else
+                            e.color = '#eee';
+                    });
+                    s.refresh();
+                }
+            else {
+                console.log(nodes)
+
+                    s.graph.nodes().forEach(function(n) {
+                        n.color = nodeColors[n.id].color
+
+                    }
+                    );
+                    s.graph.edges().forEach(function(e) {
+                        e.color = edgeColors[e.id].color
+                    });
+
+
+                    // s.graph.edges().forEach(function(e) {
+                    //     if (toKeep_out[e.source] && toKeep_out[e.target])
+                    //         e.color = e.color;
+                    //     else
+                    //         e.color = '#eee';
+                    // });
+                    s.refresh();
+                }
+
+            })
 
 
             // Refresh the display:
             s.refresh();
             s.startForceAtlas2();
-            window.setTimeout(function() {s.killForceAtlas2()}, 1000);
+            window.setTimeout(function () {
+                s.killForceAtlas2()
+            }, 1000);
             // Initialize the Filter API
             filter = sigma.plugins.filter(s);
 
-            updatePane(s.graph, filter);
+            // updatePane(s.graph, filter);
+
             function applyMinDegreeFilter(e) {
                 var v = e.target.value;
                 _.$('min-degree-val').textContent = v;
@@ -324,7 +470,7 @@
                 filter
                     .undo('min-degree')
                     .nodesBy(
-                        function(n, options) {
+                        function (n, options) {
                             return this.graph.degree(n.id) >= options.minDegreeVal;
                         },
                         {
@@ -334,13 +480,14 @@
                     )
                     .apply();
             }
+
             function applyCategoryFilter(e) {
                 var c = e.target[e.target.selectedIndex].value;
 
                 filter
                     .undo('node-category')
                     .nodesBy(
-                        function(n, options) {
+                        function (n, options) {
 
                             return !c.length || n[options.property] === c;
                         },
@@ -352,20 +499,20 @@
                     .apply();
             }
 
-            _.$('min-degree').addEventListener("input", applyMinDegreeFilter);  // for Chrome and FF
-            _.$('min-degree').addEventListener("change", applyMinDegreeFilter); // for IE10+, that sucks
+            // _.$('min-degree').addEventListener("input", applyMinDegreeFilter);  // for Chrome and FF
+            // _.$('min-degree').addEventListener("change", applyMinDegreeFilter); // for IE10+, that sucks
             _.$('node-category').addEventListener("change", applyCategoryFilter);
         }
     );
-    s.bind('clickNode', function(e) {
-        window.open(e.data.node.url);
-    });
+    // s.bind('clickNode', function (e) {
+    //     window.open(e.data.node.url);
+    // });
 
 
 
     var config = {
         node: [{
-            show: 'hovers',
+            show: 'clickNode',
             hide: 'hovers',
             cssClass: 'sigma-tooltip',
             position: 'bottom',
@@ -383,7 +530,7 @@
                 '    </table>' +
                 '  </div>' +
                 '  <div class="sigma-tooltip-footer">Number of connections: {{degree}}</div>',
-            renderer: function(node, template) {
+            renderer: function (node, template) {
                 // The function context is s.graph
                 node.degree = this.degree(node.id);
 
@@ -405,7 +552,7 @@
                 '   <p> Context menu for {{name}} </p>' +
                 '  </div>' +
                 ' <div class="sigma-tooltip-footer">Number of connections: {{degree}}</div>',
-            renderer: function(node, template) {
+            renderer: function (node, template) {
                 node.degree = this.degree(node.id);
                 return Mustache.render(template, node);
             }
@@ -421,31 +568,29 @@
     var tooltips = sigma.plugins.tooltips(s, s.renderers[0], config);
 
 
-
-
-
     // zoom in example
     var c = s.camera;
-    $(document).ready(function(){
-        $(".zoom-in").bind("click",function(){
+    $(document).ready(function () {
+        $(".zoom-in").bind("click", function () {
             sigma.misc.animation.camera(c, {
                 ratio: c.ratio / c.settings('zoomingRatio')
             }, {
                 duration: 200
             });
         });
-        $(".zoom-out").bind("click",function(){
+        $(".zoom-out").bind("click", function () {
             sigma.misc.animation.camera(c, {
                 ratio: c.ratio * c.settings('zoomingRatio')
             }, {
                 duration: 200
             });
         });
-        $(".initial").bind("click",function(){
-            s.cameras[0].goTo({ x: 0, y: 0, angle: 0, ratio: 1 });
+        $(".initial").bind("click", function () {
+            s.cameras[0].goTo({x: 0, y: 0, angle: 0, ratio: 1});
         });
 
     });
+
     function toggleFullScreen() {
         if ((document.fullScreenElement && document.fullScreenElement !== null) ||
             (!document.mozFullScreen && !document.webkitIsFullScreen)) {
@@ -467,30 +612,28 @@
         }
     }
 
-    tooltips.bind('shown', function(event) {
+    tooltips.bind('shown', function (event) {
         console.log('tooltip shown', event);
     });
 
-    tooltips.bind('hidden', function(event) {
+    tooltips.bind('hidden', function (event) {
         console.log('tooltip hidden', event);
     });
 
     var dragListener = sigma.plugins.dragNodes(s, s.renderers[0]);
 
-    dragListener.bind('startdrag', function(event) {
+    dragListener.bind('startdrag', function (event) {
         console.log(event);
     });
-    dragListener.bind('drag', function(event) {
+    dragListener.bind('drag', function (event) {
         console.log(event);
     });
-    dragListener.bind('drop', function(event) {
+    dragListener.bind('drop', function (event) {
         console.log(event);
     });
-    dragListener.bind('dragend', function(event) {
+    dragListener.bind('dragend', function (event) {
         console.log(event);
     });
-
-
 
 
     var filter;
@@ -507,10 +650,10 @@
             return document.querySelectorAll(selectors);
         },
 
-        removeClass: function(selectors, cssClass) {
+        removeClass: function (selectors, cssClass) {
             var nodes = document.querySelectorAll(selectors);
             var l = nodes.length;
-            for ( i = 0 ; i < l; i++ ) {
+            for (i = 0; i < l; i++) {
                 var el = nodes[i];
                 // Bootstrap compatibility
                 el.className = el.className.replace(cssClass, '');
@@ -520,7 +663,7 @@
         addClass: function (selectors, cssClass) {
             var nodes = document.querySelectorAll(selectors);
             var l = nodes.length;
-            for ( i = 0 ; i < l; i++ ) {
+            for (i = 0; i < l; i++) {
                 var el = nodes[i];
                 // Bootstrap compatibility
                 if (-1 == el.className.indexOf(cssClass)) {
@@ -541,7 +684,7 @@
             var cssClass = cssClass || "hidden";
             var nodes = document.querySelectorAll(selectors);
             var l = nodes.length;
-            for ( i = 0 ; i < l; i++ ) {
+            for (i = 0; i < l; i++) {
                 var el = nodes[i];
                 //el.style.display = (el.style.display != 'none' ? 'none' : '' );
                 // Bootstrap compatibility
@@ -555,13 +698,13 @@
     };
 
 
-    function updatePane (graph, filter) {
+    function updatePane(graph, filter) {
         // get max degree
         var maxDegree = 0,
             categories = {};
 
         // read nodes
-        graph.nodes().forEach(function(n) {
+        graph.nodes().forEach(function (n) {
             maxDegree = Math.max(maxDegree, graph.degree(n.id));
             categories[n.class_field] = true;
         })
@@ -572,49 +715,49 @@
 
         // node category
         var nodecategoryElt = _.$('node-category');
-        Object.keys(categories).forEach(function(c) {
+        Object.keys(categories).forEach(function (c) {
             var optionElt = document.createElement("option");
             optionElt.text = c;
             nodecategoryElt.add(optionElt);
         });
 
         // reset button
-        _.$('reset-btn').addEventListener("click", function(e) {
-            _.$('min-degree').value = 0;
-            _.$('min-degree-val').textContent = '0';
-            _.$('node-category').selectedIndex = 0;
-            filter.undo().apply();
-            _.$('dump').textContent = '';
-            _.hide('#dump');
-        });
+        // _.$('reset-btn').addEventListener("click", function (e) {
+        //     _.$('min-degree').value = 0;
+        //     _.$('min-degree-val').textContent = '0';
+        //     _.$('node-category').selectedIndex = 0;
+        //     filter.undo().apply();
+        //     _.$('dump').textContent = '';
+        //     _.hide('#dump');
+        // });
 
         // export button
-        _.$('export-btn').addEventListener("click", function(e) {
-            var chain = filter.serialize();
-            console.log(chain);
-            _.$('dump').textContent = JSON.stringify(chain);
-            _.show('#dump');
-        });
+        // _.$('export-btn').addEventListener("click", function (e) {
+        //     var chain = filter.serialize();
+        //     console.log(chain);
+        //     _.$('dump').textContent = JSON.stringify(chain);
+        //     _.show('#dump');
+        // });
     }
-    function search(keyword){
-        $.getJSON('graph_data.json', function(data) {
+
+    function search(keyword) {
+        $.getJSON('graph_data.json', function (data) {
             output = ""
             $.each(data.nodes, function (key, val) {
-                if (JSON.stringify(val).indexOf(keyword)>=0){
+                if (JSON.stringify(val).indexOf(keyword) >= 0) {
                     output += "<div class='values'>";
                     output += '<h5 class="value-name"> Name:' + val.name + '</h5>'
-                    if (val.url){
-                        output += 'URL: <a class="value-url" href="'+val.url+'">' + val.url + '</a>'
+                    if (val.url) {
+                        output += 'URL: <a class="value-url" href="' + val.url + '">' + val.url + '</a>'
                     }
-                    output += '<p class="value-class"> Class Field:' + val.class_field+ '</p>'
+                    output += '<p class="value-class"> Class Field:' + val.class_field + '</p>'
                     output += "</div></br>";
                 }
             })
-            if (output==="")
-            {
+            if (output === "") {
                 output = "<p> No matches</p>"
             }
-            if (keyword === ""){
+            if (keyword === "") {
                 output = ""
             }
             /* SEEKER FUNCTION */
@@ -624,10 +767,10 @@
                 };
             }
 
-            jQuery(function(){
+            jQuery(function () {
                 var $rows = $('.values');
                 $('#seeker').keyup(function () {
-                    var regex =  new RegExp(RegExp.escape($.trim(this.value).replace(/\s+/g, ' ')), 'i')
+                    var regex = new RegExp(RegExp.escape($.trim(this.value).replace(/\s+/g, ' ')), 'i')
                     $rows.hide().filter(function () {
                         var text = $(this).children(".value-name").text().replace(/\s+/g, ' ');
                         return regex.test(text)
@@ -637,13 +780,12 @@
             $('#popup').html(output);
         });
     }
-    $(function(){
-        $('#search_button').click(function(){
+
+    $(function () {
+        $('#search_button').click(function () {
             $('#popup').bPopup();
         });
     });
-
-
 
 
 </script>
