@@ -1,3 +1,4 @@
+
 <!-- START SIGMA IMPORTS -->
 <script src="src/sigma.core.js"></script>
 <script src="src/conrad.js"></script>
@@ -69,8 +70,12 @@
         integrity="sha512-kmrY+BFhi6ywgfK8hW1ySM/KYU3xPd4elbMhORq3DhacwqmitFrf3GB2HpLj3srV1zFsqxvAcZ4qU+y+ym1Eeg=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" type="text/css" href="styles.css">
+
 <div id="container">
     <style>
+        datalist {
+            display: none;
+        }
         #popup, .bMulti {
             background-color: #FFF;
             border-radius: 10px 10px 10px 10px;
@@ -275,18 +280,12 @@
 <!--        <h3>min degree <span id="min-degree-val">0</span></h3>-->
 <!--        0 <input id="min-degree" type="range" min="0" max="0" value="0"> <span id="max-degree-value">0</span><br>-->
 <!--    </div>-->
+
+    <div id="nodes2"></div>
     <div class="panels">
-        <div class="search-wrapper"><input id="seeker" type="search" placeholder="Search in nodes..."><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" class="icon" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-            <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
-        </svg><input type="button" value="Submit" id="search_button"
-                     onclick="search(document.getElementById('seeker').value)"/></div>
-        <div class="row">
-            <div id="content" display="none"></div>
-
-            <div id="popup" style="display: none;">
-                <span class="button b-close"><span>X</span></span>
-
-            </div>
+        <div class="search-wrapper"><input list="nodes" id="seeker" type="search" placeholder="Search in nodes..." onkeyup="searchFunc()"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" class="icon" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+            <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path></svg>
+            <datalist id="nodes"></datalist>
         </div>
         <div class="panel">
             <h2><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" class="text-muted" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -299,7 +298,7 @@
             <div aria-hidden="false" class="rah-static rah-static--height-auto" style="height: auto; overflow: visible;">
                 <div>
                     <p>This map represents a <i>network</i> of Wikipedia articles around the topic of "Data vizualisation". Each <i>node</i> represents an article, and each edge a <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/See_also">"See also" link</a>.</p>
-                    <p>The seed articles were selected by hand by the <a target="_blank" rel="noreferrer" href="https://medialab.sciencespo.fr/">Sciences-Po médialab</a> team, and the network was crawled using <a target="_blank" rel="noreferrer" href="https://densitydesign.github.io/strumentalia-seealsology/">Seealsology</a>, and then cleaned and enriched manually. This makes the dataset creditable to both the médialab team and <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedians">Wikipedia editors</a>.</p>
+                    <p>The seed articles were selected by hand by the <a target="_blank" rel="noreferrer" href="https://medialab.sciencespo.fr/">Sciences-Po medialab</a> team, and the network was crawled using <a target="_blank" rel="noreferrer" href="https://densitydesign.github.io/strumentalia-seealsology/">Seealsology</a>, and then cleaned and enriched manually. This makes the dataset creditable to both the médialab team and <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedians">Wikipedia editors</a>.</p>
                     <p>This web application has been developed by <a target="_blank" rel="noreferrer" href="https://www.ouestware.com/en/">OuestWare</a>, using <a target="_blank" rel="noreferrer" href="https://reactjs.org/">react</a> and <a target="_blank" rel="noreferrer" href="https://www.sigmajs.org">sigma.js</a>. You can read the source code <a target="_blank" rel="noreferrer" href="https://github.com/jacomyal/sigma.js/tree/main/demo">on GitHub</a>.</p>
                     <p>Nodes sizes are related to their <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Betweenness_centrality">betweenness centrality</a>. More central nodes (ie. bigger nodes) are important crossing points in the network. Finally, You can click a node to open the related Wikipedia article.</p>
                 </div>
@@ -328,11 +327,22 @@
         </div>
     </div>
 
+    </div>
 
 
 
-</div>
 <script>
+
+    $(document).ready(function(){
+        $.getJSON('graph_data.json', function(data) {
+            //populate the cars datalist
+            $(data.nodes).each(function() {
+                nodeOption = "<option value=\"" + this.name + "\">" + this.name + "</option>";
+                $('datalist').append(nodeOption);
+            });
+        });
+    })
+
     sigma.classes.graph.addMethod('neighbors', function(nodeId) {
         var i,
             neighbors = {},
@@ -363,6 +373,7 @@
             edgeLabelSize: 'proportional',
             minArrowSize: 7,
             drawEdgeLabels: true,
+            defaultLabelSize: 12,
         }
     });
 
@@ -461,7 +472,7 @@
             // Initialize the Filter API
             filter = sigma.plugins.filter(s);
 
-            // updatePane(s.graph, filter);
+            updatePane(s.graph, filter);
 
             function applyMinDegreeFilter(e) {
                 var v = e.target.value;
@@ -521,15 +532,14 @@
                 '<div class="arrow"></div>' +
                 ' <div class="sigma-tooltip-header">{{name}}</div>' +
                 '  <div class="sigma-tooltip-body">' +
-                '    <table>' +
+                '    <table class="sigma-tooltip-body" style="width:100%">' +
                 '      <tr><th>Class Field</th> <td>{{class_field}}</td></tr>' +
                 '      <tr><th>Name</th> <td>{{name}}</td></tr>' +
-                '      <tr><th>URL</th> <td><a href="{{url}}">{{url}}</a></td></tr>' +
+                '      <tr><th>URL</th> <td><a style="word-break: break-all" href="{{url}}">{{url}}</a></td></tr>' +
                 '      <tr><th>Group</th> <td>{{group}}</td></tr>' +
                 '      <tr><th>id</th> <td>{{id}}</td></tr>' +
                 '    </table>' +
-                '  </div>' +
-                '  <div class="sigma-tooltip-footer">Number of connections: {{degree}}</div>',
+                '  </div>',
             renderer: function (node, template) {
                 // The function context is s.graph
                 node.degree = this.degree(node.id);
@@ -541,27 +551,8 @@
                 //var el = document.createElement('div');
                 //return el.innerHTML = Mustache.render(template, node);
             }
-        }, {
-            show: 'rightClickNode',
-            cssClass: 'sigma-tooltip',
-            position: 'right',
-            template:
-                '<div class="arrow"></div>' +
-                ' <div class="sigma-tooltip-header">{{label}}</div>' +
-                '  <div class="sigma-tooltip-body">' +
-                '   <p> Context menu for {{name}} </p>' +
-                '  </div>' +
-                ' <div class="sigma-tooltip-footer">Number of connections: {{degree}}</div>',
-            renderer: function (node, template) {
-                node.degree = this.degree(node.id);
-                return Mustache.render(template, node);
-            }
         }],
-        stage: {
-            template:
-                '<div class="arrow"></div>' +
-                '<div class="sigma-tooltip-header"> Menu </div>'
-        }
+
     };
 
     // Instanciate the tooltips plugin with a Mustache renderer for node tooltips:
@@ -739,6 +730,40 @@
         //     _.show('#dump');
         // });
     }
+    function searchFunc() {
+        // Declare variables
+        var input, filter, ul, li, a, i, txtValue;
+        input = document.getElementById('seeker');
+        filter = input.value.toUpperCase();
+        ul = document.getElementById("myUL");
+        li = ul.getElementsByTagName('li');
+
+        // Loop through all list items, and hide those who don't match the search query
+        for (i = 0; i < li.length; i++) {
+            a = li[i].getElementsByTagName("a")[0];
+            txtValue = a.textContent || a.innerText;
+            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                li[i].style.display = "";
+            } else {
+                li[i].style.display = "none";
+            }
+        }
+    }
+    function focusNode(camera, node) {
+        sigma.misc.animation.camera(
+            camera,
+            {
+                x: node['read_cammain:x'],
+                y: node['read_cammain:y'],
+                ratio: 0.075,
+            },
+            {
+                duration: 150,
+            },
+        );
+    }
+
+
 
     function search(keyword) {
         $.getJSON('graph_data.json', function (data) {
