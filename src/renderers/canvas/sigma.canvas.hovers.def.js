@@ -122,7 +122,7 @@
     function drawHoverBorder(alignment, context, fontSize, node, lines, maxLineLength) {
       var labelWidth =
         (maxLineLength > 1 && lines.length > 1) ?
-        0.6 * maxLineLength * fontSize :
+        0.65 * maxLineLength * fontSize :
         sigma.utils.canvas.getTextWidth(
           context,
           settings('approximateLabelWidth'),
@@ -134,7 +134,7 @@
           y = Math.round(node[prefix + 'y']),
           h = ((fontSize + 1) * lines.length) + 4,
           e = Math.round(size + fontSize / 4),
-          w = Math.round(labelWidth + size + 1.5 + fontSize / 3);
+          w = Math.round((labelWidth + size + fontSize / 3)*1.2);
 
       if (node.label && typeof node.label === 'string') {
         // draw a rectangle for the label
