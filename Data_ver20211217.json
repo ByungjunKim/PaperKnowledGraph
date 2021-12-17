@@ -1,0 +1,276 @@
+{
+    "Node_paper":   [
+        {"id": "SP001", "class_field": "Paper", "name": "'문화론적 연구'의 현실 인식과 전망", "url": "http://www.klbksk.com/wiki/index.php/HDAA0001"},
+        {"id": "SP003", "class_field": "Paper", "name": "'서발턴은 쓸 수 있는가", "url": "http://www.klbksk.com/wiki/index.php/HDAA0003"},
+        {"id": "SP004", "class_field": "Paper", "name": "'1980년대 문학·문화사 연구를 위한 시론(1)", "url": "http://www.klbksk.com/wiki/index.php/HDAA0004"},
+        {"id": "SP012", "class_field": "Paper", "name": "'여성은 번역할 수 있는가", "url": "http://www.klbksk.com/wiki/index.php/HDAA0012"},
+        {"id": "SP014", "class_field": "Paper", "name": "'전혜린의 젠더의식과 실천적 글쓰기", "url": "http://www.klbksk.com/wiki/index.php/HDAA0014"},
+        {"id": "SP101", "class_field": "Paper", "name": "'근대문학의 종언, 그리고 '소설'이라고 불리는 대략난감한 글쓰기들", "url": ""},
+        {"id": "SP102", "class_field": "Paper", "name": "'풍속사'와 문학의 질서", "url": ""},
+        {"id": "SP103", "class_field": "Paper", "name": "문학을 넘어서는 문학의 길", "url": ""},
+        {"id": "SP104", "class_field": "Paper", "name": "'문학' '史' 없는 시대의 문학연구", "url": ""},
+        {"id": "SP105", "class_field": "Paper", "name": "문학의 전락―무라카미[村上] 현상을 놓고","url": ""},
+        {"id": "SP106", "class_field": "Paper", "name": "오딧세우스의 변명", "url": ""},
+        {"id": "SP107", "class_field": "Paper", "name": "새로운 글쓰기와 문학연구에 대한 시론", "url": ""},
+        {"id": "SP108", "class_field": "Paper", "name": "개인의 이데올로기를 넘어서", "url": ""},
+        {"id": "SP109", "class_field": "Paper", "name": "무엇이 한국문학의 보람인가-문학평론가 백낙청과의 대화", "url": ""},
+        {"id": "SP110", "class_field": "Paper", "name": "문학의 묵시록 이후", "url": ""},
+        {"id": "SP111", "class_field": "Paper", "name": "70년대 지배적인 담론구성체들과 노동자들의 글쓰기", "url": ""},
+        {"id": "SP112", "class_field": "Paper", "name": "여성은 번역할 수 있는가", "url": ""}
+        
+   ],
+   
+   "Node_text":   [
+        {"id": "T01SP001", "class_field": "Text", "name": "1.서론"},
+        {"id": "T02SP001", "class_field": "Text", "name": "2.문학사의 전회와 '문화론적 연구'"},
+        {"id": "T03SP001", "class_field": "Text", "name": "3.근대 문학주의와 문화적 현실에 대한 성찰"},
+        {"id": "T04SP001", "class_field": "Text", "name": "4.문화사로서의 '문화론적 연구'와 문화연구로서의 '문화론적 연구'"},
+        {"id": "T05SP001", "class_field": "Text", "name": "5.결론에 대신하여"},
+        {"id": "T01SP003", "class_field": "Text", "name": "1.서론"},
+        {"id": "T02SP003", "class_field": "Text", "name": "2.지적 격차의 문화(사)와 민중의 글쓰기"},
+        {"id": "T03SP003", "class_field": "Text", "name": "3.돼지와 별: 서발턴은 쓰지 못한다"},
+        {"id": "T04SP003", "class_field": "Text", "name": "4.결론을 대신하여: 김진숙의 길, 신경숙의 길"},
+        {"id": "T01SP004", "class_field": "Text", "name": "1.들어가며"},
+        {"id": "T02SP004", "class_field": "Text", "name": "2.1980년대의 시대인식에 대해"},
+        {"id": "T03SP004", "class_field": "Text", "name": "3.1980년대 문학론 재독"},
+        {"id": "T04SP004", "class_field": "Text", "name": "4.맺음말"},
+        {"id": "T01SP012", "class_field": "Text", "name": "1.전혜린을 기억한다는 것"},
+        {"id": "T02SP012", "class_field": "Text", "name": "2.전혜린은 어떻게 수필가가 되었나?"},
+        {"id": "T03SP012", "class_field": "Text", "name": "3.‘번역가’로서의 전혜린, 그 실존적 조건"},
+        {"id": "T04SP012", "class_field": "Text", "name": "4.‘전혜린’의 기호를 향유하는 청년문화"},
+        {"id": "T01SP014", "class_field": "Text", "name": "1.전혜린의 글쓰기, 관습화된 여성성의 바깥을 향한 기투"},
+        {"id": "T02SP014", "class_field": "Text", "name": "2.젠더 규범을 교란/초월하는 ‘자기’ 인식의 순간"},
+        {"id": "T03SP014", "class_field": "Text", "name": "3.여성성과 남성성의 경계를 넘나드는 여성들"},
+        {"id": "T04SP014", "class_field": "Text", "name": "4.결론을 대신하여: ‘읽고-쓰는’ 행위와 수행적 정체성"}
+],
+
+   "Node_person":   [
+        {"id": "P001", "class_field": "Person", "name": "천정환", "chiname": ""},
+        {"id": "P002", "class_field": "Person", "name": "고봉준", "chiname": ""},
+        {"id": "P003", "class_field": "Person", "name": "권보드래", "chiname": ""},
+        {"id": "P004", "class_field": "Person", "name": "권성우", "chiname": ""},
+        {"id": "P005", "class_field": "Person", "name": "김동식", "chiname": ""},
+        {"id": "P006", "class_field": "Pserson", "name": "박헌호", "chiname": ""},
+        {"id": "P007", "class_field": "Person", "name": "유종호", "chiname": ""},
+        {"id": "P008", "class_field": "Person", "name": "이경훈", "chiname": ""},
+        {"id": "P009", "class_field": "Person", "name": "하정일", "chiname": ""},
+        {"id": "P010", "class_field": "Person", "name": "황종연", "chiname": ""},
+        {"id": "P011", "class_field": "Person", "name": "가라타니 고진", "chiname": ""},
+        {"id": "P012", "class_field": "Person", "name": "슬라보예 지젝", "chiname": ""},
+        {"id": "P013", "class_field": "Person", "name": "와타나베 히로시", "chiname": ""},
+        {"id": "P014", "class_field": "Person", "name": "토드 기틀린", "chiname": ""},
+        {"id": "P015", "class_field": "Person", "name": "토머스 L.프리드먼", "chiname": ""},
+        {"id": "P016", "class_field": "Person", "name": "조성면", "chiname": ""},
+        {"id": "P017", "class_field": "Person", "name": "남재일", "chiname": ""},
+        {"id": "P018", "class_field": "Person", "name": "김상철", "chiname": ""},
+        {"id": "P019", "class_field": "Person", "name": "박민규", "chiname": ""},
+        {"id": "P020", "class_field": "Person", "name": "신병현", "chiname": ""},
+        {"id": "P021", "class_field": "Person", "name": "박숙자", "chiname": ""},
+        {"id": "P022", "class_field": "Person", "name": "이행미", "chiname": ""},
+        {"id": "P023", "class_field": "Person", "name": "전혜린", "chiname": ""}
+    ],
+
+    "Node_journal":    [
+        {"id": "J001", "class_field": "Journal", "name": "상허학보", "chiname": ""},
+        {"id": "J002", "class_field": "Journal", "name": "작가와 비평", "chiname": ""},
+        {"id": "J003", "class_field": "Journal", "name": "현대소설연구", "chiname": ""},
+        {"id": "J004", "class_field": "Journal", "name": "문학수첩", "chiname": ""},
+        {"id": "J005", "class_field": "Journal", "name": "역사비평", "chiname": ""},
+        {"id": "J006", "class_field": "Journal", "name": "현대문학", "chiname": ""},
+        {"id": "J007", "class_field": "Journal", "name": "민족문학사연구", "chiname": ""},
+        {"id": "J008", "class_field": "Journal", "name": "비평과 전망", "chiname": ""},
+        {"id": "J009", "class_field": "Journal", "name": "창작과 비평", "chiname": ""},
+        {"id": "J010", "class_field": "Journal", "name": "산업노동연구", "chiname": ""},
+        {"id": "J011", "class_field": "Journal", "name": "서강인문논총", "chiname": ""}
+    ],
+
+    "Node_volume":    [
+        {"id": "V001", "class_field": "Volume", "name": "상허학보_19", "chiname": ""},
+        {"id": "V002", "class_field": "Volume", "name": "작가와 비평_2006상반기", "chiname": ""},
+        {"id": "V003", "class_field": "Volume", "name": "현대소설연구_27", "chiname": ""},
+        {"id": "V004", "class_field": "Volume", "name": "문학수첩_2005봄", "chiname": ""},
+        {"id": "V005", "class_field": "Volume", "name": "역사비평_75", "chiname": ""},
+        {"id": "V006", "class_field": "Volume", "name": "현대문학_2006.06", "chiname": ""},
+        {"id": "V007", "class_field": "Volume", "name": "민족문학사연구_26", "chiname": ""},
+        {"id": "V008", "class_field": "Volume", "name": "비평과 전망_8", "chiname": ""},
+        {"id": "V009", "class_field": "Volume", "name": "창작과 비평_131", "chiname": ""},
+        {"id": "V010", "class_field": "Volume", "name": "현대문학_2006.08", "chiname": ""},
+        {"id": "V011", "class_field": "Volume", "name": "산업노동연구_12권1호", "chiname": ""},
+        {"id": "V012", "class_field": "Volume", "name": "서강인문논총_38", "chiname": ""}
+    ],
+
+    "Node_book":    [
+        {"id": "B001", "class_field": "Book", "name": "거울과 미로", "engname": ""},
+        {"id": "B002", "class_field": "Book", "name": "근대문학의 종언", "engname": ""},
+        {"id": "B003", "class_field": "Book", "name": "해방전후사의 재인식", "engname": ""},
+        {"id": "B004", "class_field": "Book", "name": "신체 없는 기관-들뢰즈와 결과들", "engname": ""},
+        {"id": "B005", "class_field": "Book", "name": "청중의 탄생", "engname": ""},
+        {"id": "B006", "class_field": "Book", "name": "대중문학과 정전에 대한 반역", "engname": ""},
+        {"id": "B007", "class_field": "Book", "name": "무한 미디어", "engname": ""},
+        {"id": "B008", "class_field": "Book", "name": "세계는 평평하다", "engname": ""}
+    ],
+
+    "Node_publisher":   [
+        {"id": "PB001", "class_field": "Publisher", "name": "천년의시작"},
+        {"id": "PB002", "class_field": "Publisher", "name": "도서출판b"},
+        {"id": "PB003", "class_field": "Publisher", "name": "책세상"},
+        {"id": "PB004", "class_field": "Publisher", "name": "강"},
+        {"id": "PB005", "class_field": "Publisher", "name": "소명출판"},
+        {"id": "PB006", "class_field": "Publisher", "name": "휴먼앤북스"},
+        {"id": "PB007", "class_field": "Publisher", "name": "창해"}
+    ],
+
+    "Node_group":   [
+        {"id": "G001", "class_field": "Group", "name": "상허학회", "chiname": ""},
+        {"id": "G002", "class_field": "Group", "name": "한국현대소설학회", "chiname": ""},
+        {"id": "G003", "class_field": "Group", "name": "동국대 한국문화연구소", "chiname": ""},
+        {"id": "G004", "class_field": "Group", "name": "역사문제연구소", "chiname": ""},
+        {"id": "G005", "class_field": "Group", "name": "민족문학사학회", "chiname": ""},
+        {"id": "G006", "class_field": "Group", "name": "작가와비평 편집동인", "chiname": ""},
+        {"id": "G007", "class_field": "Group", "name": "서강대 인문과학연구소", "chiname": ""}
+    ],
+
+    "Node_term":    [
+        {"id": "TM001", "class_field": "Term", "name": "정상성"},
+        {"id": "TM002", "class_field": "Term", "name": "근대성"},
+        {"id": "TM003", "class_field": "Term", "name": "대중문화"},
+        {"id": "TM004", "class_field": "Term", "name": "시민성"}
+    ],
+
+    "Link_person2paper":    [
+        {"sourceid": "P001", "targetid": "SP001", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P001", "targetid": "SP003", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P001", "targetid": "SP004", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P021", "targetid": "SP012", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P022", "targetid": "SP014", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P002", "targetid": "SP101", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P003", "targetid": "SP102", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P004", "targetid": "SP103", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P006", "targetid": "SP104", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P007", "targetid": "SP105", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P008", "targetid": "SP106", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P001", "targetid": "SP107", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P009", "targetid": "SP108", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P010", "targetid": "SP109", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P010", "targetid": "SP110", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P020", "targetid": "SP111", "relationEng": "writes", "relationKor": "저술하다"},
+        {"sourceid": "P021", "targetid": "SP112", "relationEng": "writes", "relationKor": "저술하다"}
+    ],
+
+    "Link_paper2volume":    [
+        {"sourceid": "SP001", "targetid": "V001", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
+        {"sourceid": "SP101", "targetid": "V002", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
+        {"sourceid": "SP102", "targetid": "V003", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
+        {"sourceid": "SP103", "targetid": "V004", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
+        {"sourceid": "SP104", "targetid": "V005", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
+        {"sourceid": "SP105", "targetid": "V006", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
+        {"sourceid": "SP106", "targetid": "V003", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
+        {"sourceid": "SP107", "targetid": "V007", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
+        {"sourceid": "SP108", "targetid": "V008", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
+        {"sourceid": "SP109", "targetid": "V009", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
+        {"sourceid": "SP110", "targetid": "V010", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
+        {"sourceid": "SP112", "targetid": "V012", "relationEng": "isIssuedAt", "relationKor": "게재되다"}
+    ],
+
+    "Link_volume2journal":    [
+        {"sourceid": "V001", "targetid": "J001", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "V002", "targetid": "J002", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "V003", "targetid": "J003", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "V004", "targetid": "J004", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "V005", "targetid": "J005", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "V006", "targetid": "J006", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "V007", "targetid": "J007", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "V008", "targetid": "J008", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "V009", "targetid": "J009", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "V010", "targetid": "J006", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "V012", "targetid": "J011", "relationEng": "isPartOf", "relationKor": "포함되다"}
+    ],
+
+    "Link_group2journal":    [
+        {"sourceid": "G001", "targetid": "J001", "relationEng": "compiles", "relationKor": "편찬하다"},
+        {"sourceid": "G002", "targetid": "J003", "relationEng": "compiles", "relationKor": "편찬하다"},
+        {"sourceid": "G004", "targetid": "J005", "relationEng": "compiles", "relationKor": "편찬하다"},
+        {"sourceid": "G005", "targetid": "J007", "relationEng": "compiles", "relationKor": "편찬하다"},
+        {"sourceid": "G006", "targetid": "J008", "relationEng": "compiles", "relationKor": "편찬하다"},
+        {"sourceid": "G007", "targetid": "J011", "relationEng": "compiles", "relationKor": "편찬하다"}
+    ],
+
+    "Link_publisher2book":    [
+        {"sourceid": "PB001", "targetid": "B001", "relationEng": "prints", "relationKor": "간행하다"},
+        {"sourceid": "PB002", "targetid": "B002", "relationEng": "prints", "relationKor": "간행하다"},
+        {"sourceid": "PB003", "targetid": "B003", "relationEng": "prints", "relationKor": "간행하다"},
+        {"sourceid": "PB002", "targetid": "B004", "relationEng": "prints", "relationKor": "간행하다"},
+        {"sourceid": "PB004", "targetid": "B005", "relationEng": "prints", "relationKor": "간행하다"},
+        {"sourceid": "PB005", "targetid": "B006", "relationEng": "prints", "relationKor": "간행하다"},
+        {"sourceid": "PB006", "targetid": "B007", "relationEng": "prints", "relationKor": "간행하다"},
+        {"sourceid": "PB007", "targetid": "B008", "relationEng": "prints", "relationKor": "간행하다"}
+    ],
+
+    "Link_text2paper":    [
+        {"sourceid": "T01SP001", "targetid": "SP001", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T02SP001", "targetid": "SP001", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T03SP001", "targetid": "SP001", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T04SP001", "targetid": "SP001", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T05SP001", "targetid": "SP001", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T01SP003", "targetid": "SP003", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T02SP003", "targetid": "SP003", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T03SP003", "targetid": "SP003", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T04SP003", "targetid": "SP003", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T01SP004", "targetid": "SP004", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T02SP004", "targetid": "SP004", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T03SP004", "targetid": "SP004", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T04SP004", "targetid": "SP004", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T01SP012", "targetid": "SP012", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T02SP012", "targetid": "SP012", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T03SP012", "targetid": "SP012", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T04SP012", "targetid": "SP012", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T01SP014", "targetid": "SP014", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T02SP014", "targetid": "SP014", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T03SP014", "targetid": "SP014", "relationEng": "isPartOf", "relationKor": "포함되다"},
+        {"sourceid": "T04SP014", "targetid": "SP014", "relationEng": "isPartOf", "relationKor": "포함되다"}
+    ],
+
+    "Link_book2text":    [
+        {"sourceid": "B002", "targetid": "T02SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "B003", "targetid": "T01SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "B004", "targetid": "T01SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "B005", "targetid": "T03SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "B006", "targetid": "T01SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "B007", "targetid": "T03SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "B008", "targetid": "T02SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"}
+    ],
+
+    "Link_paper2text":    [
+        {"sourceid": "SP101", "targetid": "T02SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "SP102", "targetid": "T01SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "SP103", "targetid": "T02SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "SP104", "targetid": "T02SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "SP105", "targetid": "T03SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "SP106", "targetid": "T01SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "SP107", "targetid": "T02SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "SP108", "targetid": "T03SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "SP109", "targetid": "T03SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "SP110", "targetid": "T02SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "SP111", "targetid": "T01SP003", "relationEng": "isCitedIn", "relationKor": "인용되다"},
+        {"sourceid": "SP112", "targetid": "T03SP014", "relationEng": "isCitedIn", "relationKor": "인용되다"}
+    ],
+
+    "Link_term2text":    [
+        {"sourceid": "TM001", "targetid": "T03SP001", "relationEng": "isMentionedIn", "relationKor": "언급되다"},
+        {"sourceid": "TM002", "targetid": "T02SP001", "relationEng": "isMentionedIn", "relationKor": "언급되다"},
+        {"sourceid": "TM002", "targetid": "T04SP001", "relationEng": "isMentionedIn", "relationKor": "언급되다"},
+        {"sourceid": "TM003", "targetid": "T03SP001", "relationEng": "isMentionedIn", "relationKor": "언급되다"},
+        {"sourceid": "TM003", "targetid": "T04SP001", "relationEng": "isMentionedIn", "relationKor": "언급되다"},
+        {"sourceid": "TM004", "targetid": "T03SP012", "relationEng": "isMentionedIn", "relationKor": "언급되다"}
+    ],
+
+    "Link_person2text":    [
+        {"sourceid": "P010", "targetid": "T02SP001", "relationEng": "isMentionedIn", "relationKor": "언급되다"},
+        {"sourceid": "P011", "targetid": "T02SP001", "relationEng": "isMentionedIn", "relationKor": "언급되다"},
+        {"sourceid": "P012", "targetid": "T01SP001", "relationEng": "isMentionedIn", "relationKor": "언급되다"},
+        {"sourceid": "P019", "targetid": "T03SP001", "relationEng": "isMentionedIn", "relationKor": "언급되다"},
+        {"sourceid": "P023", "targetid": "T01SP012", "relationEng": "isMentionedIn", "relationKor": "언급되다"},
+        {"sourceid": "P023", "targetid": "T01SP014", "relationEng": "isMentionedIn", "relationKor": "언급되다"}
+    ]
+
+}
