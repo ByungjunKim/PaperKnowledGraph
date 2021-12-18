@@ -180,7 +180,7 @@
     });
 
     $(document).ready(function(){
-        $.getJSON('graph_data.json', function(data) {
+        $.getJSON('graph_data_new.json', function(data) {
             //populate the cars datalist
             $(data.nodes).each(function() {
                 nodeOption = "<option data-value=\"" + this.id + "\">" + this.name + "</option>";
