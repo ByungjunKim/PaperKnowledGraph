@@ -208,13 +208,13 @@
             edgeLabelSize: 'proportional',
             minArrowSize: 7,
             drawEdgeLabels: true,
-            maxNodeSize:12,
+            // maxNodeSize:12,
             // drawLabels:true,
             // labelSize: 20,
             // defaultLabelSize: 20,
            // labelHoverShadow: "default",
            //  labelHoverShadowColor: '#129',
-            maxNodeLabelLineLength: 25,
+           //  maxNodeLabelLineLength: 2,
         }
     });
 
@@ -264,7 +264,7 @@
 
     // data import
     sigma.parsers.json(
-        'graph_data.json',
+        'graph_data_new.json',
         s,
         function () {
 
@@ -272,14 +272,16 @@
             var i,
                 nodes = s.graph.nodes(),
                 len = nodes.length,
-                edges = s.graph.edges();
+                edges = s.graph.edges(),
+                elen = edges.length;
 
             var node_colors = {}
             var edge_colors = {}
             for (i = 0; i < len; i++) {
                 node_colors[nodes[i].id] = {'color':nodes[i].color}
             }
-            for (i = 0; i < len; i++) {
+            for (i = 0; i < elen; i++) {
+                console.log(i)
                 edge_colors[edges[i].id] = {'color':edges[i].color}
             }
 
