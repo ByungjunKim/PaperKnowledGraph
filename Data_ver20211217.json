@@ -3,7 +3,7 @@
         {"id": "SP001", "class_field": "Paper", "name": "'문화론적 연구'의 현실 인식과 전망", "url": "http://www.klbksk.com/wiki/index.php/HDAA0001"},
         {"id": "SP003", "class_field": "Paper", "name": "'서발턴은 쓸 수 있는가", "url": "http://www.klbksk.com/wiki/index.php/HDAA0003"},
         {"id": "SP004", "class_field": "Paper", "name": "'1980년대 문학·문화사 연구를 위한 시론(1)", "url": "http://www.klbksk.com/wiki/index.php/HDAA0004"},
-        {"id": "SP012", "class_field": "Paper", "name": "'여성은 번역할 수 있는가", "url": "http://www.klbksk.com/wiki/index.php/HDAA0012"},
+        {"id": "SP012", "class_field": "Paper", "name": "여성은 번역할 수 있는가", "url": "http://www.klbksk.com/wiki/index.php/HDAA0012"},
         {"id": "SP014", "class_field": "Paper", "name": "'전혜린의 젠더의식과 실천적 글쓰기", "url": "http://www.klbksk.com/wiki/index.php/HDAA0014"},
         {"id": "SP101", "class_field": "Paper", "name": "'근대문학의 종언, 그리고 '소설'이라고 불리는 대략난감한 글쓰기들", "url": ""},
         {"id": "SP102", "class_field": "Paper", "name": "'풍속사'와 문학의 질서", "url": ""},
@@ -15,9 +15,8 @@
         {"id": "SP108", "class_field": "Paper", "name": "개인의 이데올로기를 넘어서", "url": ""},
         {"id": "SP109", "class_field": "Paper", "name": "무엇이 한국문학의 보람인가-문학평론가 백낙청과의 대화", "url": ""},
         {"id": "SP110", "class_field": "Paper", "name": "문학의 묵시록 이후", "url": ""},
-        {"id": "SP111", "class_field": "Paper", "name": "70년대 지배적인 담론구성체들과 노동자들의 글쓰기", "url": ""},
-        {"id": "SP112", "class_field": "Paper", "name": "여성은 번역할 수 있는가", "url": ""}
-        
+        {"id": "SP111", "class_field": "Paper", "name": "70년대 지배적인 담론구성체들과 노동자들의 글쓰기", "url": ""}
+       
    ],
    
    "Node_text":   [
@@ -153,12 +152,12 @@
         {"sourceid": "P009", "targetid": "SP108", "relationEng": "writes", "relationKor": "저술하다"},
         {"sourceid": "P010", "targetid": "SP109", "relationEng": "writes", "relationKor": "저술하다"},
         {"sourceid": "P010", "targetid": "SP110", "relationEng": "writes", "relationKor": "저술하다"},
-        {"sourceid": "P020", "targetid": "SP111", "relationEng": "writes", "relationKor": "저술하다"},
-        {"sourceid": "P021", "targetid": "SP112", "relationEng": "writes", "relationKor": "저술하다"}
+        {"sourceid": "P020", "targetid": "SP111", "relationEng": "writes", "relationKor": "저술하다"}
     ],
 
     "Link_paper2volume":    [
         {"sourceid": "SP001", "targetid": "V001", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
+        {"sourceid": "SP012", "targetid": "V012", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
         {"sourceid": "SP101", "targetid": "V002", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
         {"sourceid": "SP102", "targetid": "V003", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
         {"sourceid": "SP103", "targetid": "V004", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
@@ -168,8 +167,7 @@
         {"sourceid": "SP107", "targetid": "V007", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
         {"sourceid": "SP108", "targetid": "V008", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
         {"sourceid": "SP109", "targetid": "V009", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
-        {"sourceid": "SP110", "targetid": "V010", "relationEng": "isIssuedAt", "relationKor": "게재되다"},
-        {"sourceid": "SP112", "targetid": "V012", "relationEng": "isIssuedAt", "relationKor": "게재되다"}
+        {"sourceid": "SP110", "targetid": "V010", "relationEng": "isIssuedAt", "relationKor": "게재되다"}
     ],
 
     "Link_volume2journal":    [
@@ -252,7 +250,7 @@
         {"sourceid": "SP109", "targetid": "T03SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
         {"sourceid": "SP110", "targetid": "T02SP001", "relationEng": "isCitedIn", "relationKor": "인용되다"},
         {"sourceid": "SP111", "targetid": "T01SP003", "relationEng": "isCitedIn", "relationKor": "인용되다"},
-        {"sourceid": "SP112", "targetid": "T03SP014", "relationEng": "isCitedIn", "relationKor": "인용되다"}
+        {"sourceid": "SP012", "targetid": "T03SP014", "relationEng": "isCitedIn", "relationKor": "인용되다"}
     ],
 
     "Link_term2text":    [
