@@ -49,7 +49,7 @@
         {"id": "P003", "class_field": "Person", "name": "권보드래", "chiname": ""},
         {"id": "P004", "class_field": "Person", "name": "권성우", "chiname": ""},
         {"id": "P005", "class_field": "Person", "name": "김동식", "chiname": ""},
-        {"id": "P006", "class_field": "Pserson", "name": "박헌호", "chiname": ""},
+        {"id": "P006", "class_field": "Person", "name": "박헌호", "chiname": ""},
         {"id": "P007", "class_field": "Person", "name": "유종호", "chiname": ""},
         {"id": "P008", "class_field": "Person", "name": "이경훈", "chiname": ""},
         {"id": "P009", "class_field": "Person", "name": "하정일", "chiname": ""},
