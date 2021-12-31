@@ -8,3 +8,8 @@ JsonToNetwork.ipynb
 
 ### SigmaJS를 활용한 네트워크 시각화
 index.html
+
+
+### 개발자
+* 김병준
+* 최동혁
